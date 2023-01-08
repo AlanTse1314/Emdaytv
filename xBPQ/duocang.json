@@ -3,10 +3,7 @@
 			"url": "clan://localhost/Emdaytv/Emdayxiu.json",
 			"name": "EmdayLive"
 		},
-		{
-			"url": "clan://localhost/Emdaytv/Emday自用.json",
-			"name": "Emday18"
-		},
+		
 		{
 			"url": "https://hutool.ml/tang",
 			"name": "唐三长老"
@@ -70,6 +67,10 @@
 		{
 			"url": "http://www.dmtv.ml/mao/single.json",
 			"name": "乱世"
+		},
+		{
+			"url": "clan://localhost/Emdaytv/Emday自用.json",
+			"name": "Emday18"
 		}
 	]
 }
