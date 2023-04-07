@@ -876,7 +876,7 @@ Hub娱家,mitv://generationnexxxt.com:19806/4488ebccc495473986b193dab33b7527
 惊艳电影台,mitv://generationnexxxt.com:19806/fbceec270a3c4b61b90afea385ea9112
 香蕉台,mitv://generationnexxxt.com:19806/17d2e415f6514da3842f1467fae4e955
 香蕉台,mitv://generationnexxxt.com:19806/17d2e415f6514da3842f1467fae4e955
-极限台,mitv://generationnexxxt.com:19806/c927fff68262429db938f1facd454bf2
+JStar极限台,mitv://generationnexxxt.com:19806/c927fff68262429db938f1facd454bf2
 HAPPY,mitv://generationnexxxt.com:19806/3a8a5adf93674ce2b85012f87ad07709
 HAPPY,mitv://generationnexxxt.com:19806/3a8a5adf93674ce2b85012f87ad07709
 K频道,mitv://generationnexxxt.com:19806/e20dca54b1324dac8e48bfa7b604f1b7
