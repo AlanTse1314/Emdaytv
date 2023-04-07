@@ -1,4 +1,5 @@
 央视频道,#genre#
+Emday,https://vdse.bdstatic.com//bf4bb1d82b2eb17681c49e745dc2da21.mp4
 CCTV1,mitv://generationnexxxt.com:19806/ed4a6f0452a24765bc252f219b5f3d70
 CCTV2,mitv://generationnexxxt.com:19806/d6bab1cf99c84393bc5cfec7f3f1ce1a
 CCTV3,mitv://generationnexxxt.com:19806/2b71b803204a4db68b811aeebff78583
