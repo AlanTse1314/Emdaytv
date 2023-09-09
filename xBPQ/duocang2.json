@@ -3,10 +3,6 @@
 		
 		
 		{
-			"url": "http://饭太硬.top/tv",
-			"name": "🔰 饭太硬线 🔰"
-		},
-		{
 			"url": "http://我不是.肥猫.love:63/接口禁止贩卖",
 			"name": "🔰 肥猫线路 🔰"
 		},
@@ -14,24 +10,36 @@
 			"url": "https://yydsys.top/duo",
 			"name": "🔰 多多应用 🔰"
 		},
+		
+		
 		{
-			"url": "https://tvbox.cainisi.cf",
-			"name": "🔰 菜妮丝线 🔰"
+			"url": "http://饭太硬.top/tv",
+			"name": "🔰 饭太硬线 🔰"
 		},
-		
-		
 		{
 			"url": "http://101.34.67.237/config/2",
 			"name": "🔰 小雅专线 🔰"
 		},
 		{
-			"url": "https://weixine.net/ysc.json",
-			"name": "🔰 运输车线 🔰"
+			"url": "https://pastebin.com/raw/5NHaxyGR",
+			"name": "🔰 道长线路 🔰"
 		},
 		{
-			"url": "https://maoyingshi.cc/tvbox/云星日记/1.m3u8",
-			"name": "🔰 云星日记 🔰"
+			"url": "http://pandown.pro/tvbox/tvbox.json",
+			"name": "🔰 巧记专线 🔰"
 		},
+		{
+			"url": "https://raw.liucn.cc/box/m.json",
+			"name": "🔰 刘备线路 🔰"
+		},
+		{
+			"url": "https://tvbox.cainisi.cf",
+			"name": "🔰 菜妮丝线 🔰"
+		},{
+			"url": "https://agit.ai/butterfly/gaotianliuyun/raw/branch/master/0820.json",
+			"name": "🔰 运输车线 🔰"
+		},
+		
 		{
 			"url": "https://agit.ai/EmdayLive/2hacc/raw/branch/main/tvbox.json",
 			"name": "🔰 二哈线路 🔰"
@@ -39,14 +47,6 @@
 		{
 			"url": "https://agit.ai/dlee2008/gao/raw/branch/master/js.json",
 			"name": "🔰 高天刘明 🔰"
-		},
-		{
-			"url": "https://agit.ai/dlee2008/TVBOXZY/raw/branch/main/tvbox.json",
-			"name": "🔰 张宏专线 🔰"
-		},
-		{
-			"url": "https://agit.ai/dlee2008/TVBOXZY/raw/branch/main/xbpq.json",
-			"name": "🔰 张宏线路 🔰"
 		},
 		
 		
@@ -63,7 +63,7 @@
 			"name": "🔰 吾爱线路 🔰"
 		},
 		{
-			"url": "https://download.kstore.space/download/2863/01.txt",
+			"url": "https://la.kstore.space/download/2863/01.txt",
 			"name": "🔰 潇洒线路 🔰"
 		},
 		{
@@ -83,10 +83,13 @@
 			"name": "🔰 西元前源 🔰"
 		},
 		{
-			"url": "https://agit.ai/butterfly/gaotianliuyun/raw/branch/master/js.json",
-			"name": "🔰 道长项目 🔰"
+			"url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
+			"name": "🔰 讴歌线路 🔰"
 		},
-		 
+		 {
+            "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
+            "name": "🔰 云星日记 🔰"
+        },
          {
             "url": "https://jihulab.com/ygbh1/box/-/raw/main/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92",
             "name": "🔰 月光宝盒 🔰"
