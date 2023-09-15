@@ -1346,7 +1346,7 @@
           "name": "live",
           "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9iaXRidWNrZXQub3JnL3hkdW8vZHVvYXBpL3Jhdy9tYXN0ZXIvdi50eHQ="
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL0VtZGF5TGl2ZS9FbWRheXR2L3Jhdy9icmFuY2gvbWFzdGVyL3hCUFEvdHZsaXZlLnR4dA=="
           ]
         }
       ]
