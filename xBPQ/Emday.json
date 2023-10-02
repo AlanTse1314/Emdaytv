@@ -1,6 +1,6 @@
 
 {
-	"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d65c6f3f30d78e020e48588d511f2bfe",
+	"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;8960305db3cdfcb9842298cc39959c11",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"warningText": "如有版权侵权，请联系Emday",
   "lives": [{
@@ -9,17 +9,17 @@
 		    "url": "https://agit.ai/EmdayLive/Emdaytv/raw/branch/master/xBPQ/live.txt" }],
 
 "sites":[
-{"key":"Qtv","name":"腾讯视频┃爬虫","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+//{"key":"Qtv","name":"腾讯视频┃爬虫","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 //{"key":"Itv","name":"爱奇艺源┃爬虫","type":3,"api":"csp_Itv","quickSearch":1,"searchable":1,"filterable":1,"changeable":0},
-{"key":"Mtv","name":"芒果视频┃爬虫","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+//{"key":"Mtv","name":"芒果视频┃爬虫","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 //{"key":"drpy_js_腾云驾雾","name":"腾讯视频┃爬虫","type":3,"api":"https://agit.ai/EmdayLive/drpy-js/raw/branch/main/lib/drpy2.min.js","ext":"https://agit.ai/EmdayLive/drpy-js/raw/branch/main/js/腾云驾雾.js"},
 //{"key":"drpy_js_百忙无果","name":"芒果视频┃爬虫","type":3,"api":"https://agit.ai/EmdayLive/drpy-js/raw/branch/main/lib/drpy2.min.js","ext":"https://agit.ai/EmdayLive/drpy-js/raw/branch/main/js/百忙无果.js"},
-{"key":"drpy_js_奇珍异兽","name":"爱奇艺源┃爬虫","type":3,"api":"https://agit.ai/EmdayLive/drpy-js/raw/branch/main/lib/drpy2.min.js","ext":"https://agit.ai/EmdayLive/drpy-js/raw/branch/main/js/奇珍异兽.js"},
-{"key":"drpy_js_优酷","name":"优酷视频┃爬虫","type":3,"api":"https://agit.ai/EmdayLive/drpy-js/raw/branch/main/lib/drpy2.min.js","ext":"https://agit.ai/EmdayLive/drpy-js/raw/branch/main/js/优酷.js"},
-{"key":"drpy_js_360影视","name":"三六零源┃爬虫","type":3,"api":"https://agit.ai/EmdayLive/drpy-js/raw/branch/main/lib/drpy2.min.js","ext":"https://agit.ai/EmdayLive/drpy-js/raw/branch/main/js/360影视.js"},
+//{"key":"drpy_js_奇珍异兽","name":"爱奇艺源┃爬虫","type":3,"api":"https://agit.ai/EmdayLive/drpy-js/raw/branch/main/lib/drpy2.min.js","ext":"https://agit.ai/EmdayLive/drpy-js/raw/branch/main/js/奇珍异兽.js"},
+//{"key":"drpy_js_优酷","name":"优酷视频┃爬虫","type":3,"api":"https://agit.ai/EmdayLive/drpy-js/raw/branch/main/lib/drpy2.min.js","ext":"https://agit.ai/EmdayLive/drpy-js/raw/branch/main/js/优酷.js"},
+//{"key":"drpy_js_360影视","name":"三六零源┃爬虫","type":3,"api":"https://agit.ai/EmdayLive/drpy-js/raw/branch/main/lib/drpy2.min.js","ext":"https://agit.ai/EmdayLive/drpy-js/raw/branch/main/js/360影视.js"},
+{"key":"csp_Nmys","name":"农民影视┃爬虫","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://饭太硬.top/x/json/nmys.json"},
 {"key":"探探","name":"影探蓝光┃爬虫","type":3,"playerType":"1","api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"ext":"vip.lyyytv.cn","jar":""},
 
-{"key":"csp_Nmys","name":"农民影视┃爬虫","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://饭太硬.top/x/json/nmys.json"},
 {"key":"爱迪","name":"爱迪外剧┃爬虫","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
 {"key":"秒看资源","name":"星影影视┃爬虫","type":1,"api":"https://www.xy1080.net/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["综艺","电视剧","电影","动漫"]},
 
