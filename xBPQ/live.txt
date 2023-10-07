@@ -202,87 +202,87 @@ CETV1,http://222.71.90.218:8888/newlive/live/hls/48/live.m3u8
 
 
 网络直播,#genre# 
-王者荣耀KPL,https://live.metshop.top/huya/660002
-陈翔六点半,https://live.metshop.top/huya/11274154
+王者荣耀KPL,https://live.goodiptv.club/api/huya.php?id=660002
+陈翔六点半,https://live.goodiptv.club/api/huya.php?id=11274154
 抖音姐姐热舞,http://epg.112114.xyz/douyu/8759139
 斗鱼音乐一FHD,http://epg.112114.xyz/douyu/9588891
-港台电影,https://live.metshop.top/huya/880261
-欧美娱乐,https://live.metshop.top/huya/21059574
-新三国,https://live.metshop.top/huya/11352944
-极限挑战],https://live.metshop.top/huya/11352914
-庆余年,https://live.metshop.top/huya/11352960
-电影,https://live.metshop.top/huya/618917
-路飞,https://live.metshop.top/huya/16913382
-欧美电影,https://live.metshop.top/huya/11352880
-科幻电影,https://live.metshop.top/huya/11602034
-红海行动,https://live.metshop.top/huya/11601986
+港台电影,https://live.goodiptv.club/api/huya.php?id=880261
+欧美娱乐,https://live.goodiptv.club/api/huya.php?id=21059574
+新三国,https://live.goodiptv.club/api/huya.php?id=11352944
+极限挑战],https://live.goodiptv.club/api/huya.php?id=11352914
+庆余年,https://live.goodiptv.club/api/huya.php?id=11352960
+电影,https://live.goodiptv.club/api/huya.php?id=618917
+路飞,https://live.goodiptv.club/api/huya.php?id=16913382
+欧美电影,https://live.goodiptv.club/api/huya.php?id=11352880
+科幻电影,https://live.goodiptv.club/api/huya.php?id=11602034
+红海行动,https://live.goodiptv.club/api/huya.php?id=11601986
 糖果,https://epg.112114.xyz/huya/973436
-生活大爆炸,https://live.metshop.top/huya/11342417
-麻雀,https://live.metshop.top/huya/11352881
-经典高智商,https://live.metshop.top/huya/11352962
-倩女幽魂,https://live.metshop.top/huya/11601970
-朱雀青龙,https://live.metshop.top/huya/11352905
-小鲤鱼,https://live.metshop.top/huya/11601961
-警匪,https://live.metshop.top/huya/11352886
-百鸟朝凤,https://live.metshop.top/huya/15894162
-黑帮斗争,https://live.metshop.top/huya/11342419
-悬疑推理,https://live.metshop.top/huya/17445539
-好莱坞,https://live.metshop.top/huya/21059587
-医馆笑传,https://live.metshop.top/huya/11352891
-经典好片,https://live.metshop.top/huya/11342427
-史诗级战争电影,https://live.metshop.top/huya/21059556
-中国功夫,https://live.metshop.top/huya/11352941
-精彩不断,https://live.metshop.top/huya/24396428
-高分电影,https://live.metshop.top/huya/16615910
-经典喜剧片,https://live.metshop.top/huya/11352894
-异形世界,https://live.metshop.top/huya/21059577
-神话,https://live.metshop.top/huya/11352913
-电锯惊魂系列,https://live.metshop.top/huya/11352903
-捉妖记,https://live.metshop.top/huya/11342414
-欧美电影,https://live.metshop.top/huya/21059581
-天雷滚滚,https://live.metshop.top/huya/11352945
-喜剧专场,https://live.metshop.top/huya/11602044
-金庸的武侠世界,https://live.metshop.top/huya/11342435
-杨门女将,https://live.metshop.top/huya/11336590
-天龙八部,https://live.metshop.top/huya/11602041
-魔法世界,https://live.metshop.top/huya/21059580
-文成公主,https://live.metshop.top/huya/11352974
-许氏三杰,https://live.metshop.top/huya/11602033
-精忠岳飞南征北战,https://live.metshop.top/huya/11336578
-张卫健,https://live.metshop.top/huya/11342423
-搞笑僵尸片,https://live.metshop.top/huya/11352963
-国产青春,https://live.metshop.top/huya/11602075
-孙悟空,https://live.metshop.top/huya/11342395
-太空混战,https://live.metshop.top/huya/21059579
-三国鼎立,https://live.metshop.top/huya/11602077
-歪果仁动作,https://live.metshop.top/huya/21059552
-命案十三宗,https://live.metshop.top/huya/11601981
-喜剧合家欢,https://live.metshop.top/huya/11352877
-甄嬛传,https://live.metshop.top/huya/11601971
-我是大哥大,https://live.metshop.top/huya/23652317
-看救援电影,https://live.metshop.top/huya/21059586
-金庸电影,https://live.metshop.top/huya/11352897
-虎牙电影1,https://live.metshop.top/huya/11602058
-虎牙电影2,https://live.metshop.top/huya/11601968
-虎牙电影3,https://live.metshop.top/huya/11342412
-虎牙电影4,https://live.metshop.top/huya/11342386
-虎牙电影5,https://live.metshop.top/huya/11601986
-虎牙电影6,https://live.metshop.top/huya/11601971
-虎牙电影7,https://live.metshop.top/huya/11336592
-虎牙电影8,https://live.metshop.top/huya/11342390
-虎牙电影9,https://live.metshop.top/huya/11352941
-虎牙电影10,https://live.metshop.top/huya/11279251
-虎牙电影11,https://live.metshop.top/huya/11602041
-虎牙电影12,https://live.metshop.top/huya/11352963
-虎牙电影13,https://live.metshop.top/huya/11342414
-虎牙电影14,https://live.metshop.top/huya/11602075
-虎牙电影15,https://live.metshop.top/huya/11352962
-虎牙电影16,https://live.metshop.top/huya/11336571
-虎牙电影17,https://live.metshop.top/huya/11342427
-虎牙电影18,https://live.metshop.top/huya/11336719
-虎牙电影19,https://live.metshop.top/huya/11352894
-虎牙电影20,https://live.metshop.top/huya/11352877
-虎牙电影21,https://live.metshop.top/huya/11602077
+生活大爆炸,https://live.goodiptv.club/api/huya.php?id=11342417
+麻雀,https://live.goodiptv.club/api/huya.php?id=11352881
+经典高智商,https://live.goodiptv.club/api/huya.php?id=11352962
+倩女幽魂,https://live.goodiptv.club/api/huya.php?id=11601970
+朱雀青龙,https://live.goodiptv.club/api/huya.php?id=11352905
+小鲤鱼,https://live.goodiptv.club/api/huya.php?id=11601961
+警匪,https://live.goodiptv.club/api/huya.php?id=11352886
+百鸟朝凤,https://live.goodiptv.club/api/huya.php?id=15894162
+黑帮斗争,https://live.goodiptv.club/api/huya.php?id=11342419
+悬疑推理,https://live.goodiptv.club/api/huya.php?id=17445539
+好莱坞,https://live.goodiptv.club/api/huya.php?id=21059587
+医馆笑传,https://live.goodiptv.club/api/huya.php?id=11352891
+经典好片,https://live.goodiptv.club/api/huya.php?id=11342427
+史诗级战争电影,https://live.goodiptv.club/api/huya.php?id=21059556
+中国功夫,https://live.goodiptv.club/api/huya.php?id=11352941
+精彩不断,https://live.goodiptv.club/api/huya.php?id=24396428
+高分电影,https://live.goodiptv.club/api/huya.php?id=16615910
+经典喜剧片,https://live.goodiptv.club/api/huya.php?id=11352894
+异形世界,https://live.goodiptv.club/api/huya.php?id=21059577
+神话,https://live.goodiptv.club/api/huya.php?id=11352913
+电锯惊魂系列,https://live.goodiptv.club/api/huya.php?id=11352903
+捉妖记,https://live.goodiptv.club/api/huya.php?id=11342414
+欧美电影,https://live.goodiptv.club/api/huya.php?id=21059581
+天雷滚滚,https://live.goodiptv.club/api/huya.php?id=11352945
+喜剧专场,https://live.goodiptv.club/api/huya.php?id=11602044
+金庸的武侠世界,https://live.goodiptv.club/api/huya.php?id=11342435
+杨门女将,https://live.goodiptv.club/api/huya.php?id=11336590
+天龙八部,https://live.goodiptv.club/api/huya.php?id=11602041
+魔法世界,https://live.goodiptv.club/api/huya.php?id=21059580
+文成公主,https://live.goodiptv.club/api/huya.php?id=11352974
+许氏三杰,https://live.goodiptv.club/api/huya.php?id=11602033
+精忠岳飞南征北战,https://live.goodiptv.club/api/huya.php?id=11336578
+张卫健,https://live.goodiptv.club/api/huya.php?id=11342423
+搞笑僵尸片,https://live.goodiptv.club/api/huya.php?id=11352963
+国产青春,https://live.goodiptv.club/api/huya.php?id=11602075
+孙悟空,https://live.goodiptv.club/api/huya.php?id=11342395
+太空混战,https://live.goodiptv.club/api/huya.php?id=21059579
+三国鼎立,https://live.goodiptv.club/api/huya.php?id=11602077
+歪果仁动作,https://live.goodiptv.club/api/huya.php?id=21059552
+命案十三宗,https://live.goodiptv.club/api/huya.php?id=11601981
+喜剧合家欢,https://live.goodiptv.club/api/huya.php?id=11352877
+甄嬛传,https://live.goodiptv.club/api/huya.php?id=11601971
+我是大哥大,https://live.goodiptv.club/api/huya.php?id=23652317
+看救援电影,https://live.goodiptv.club/api/huya.php?id=21059586
+金庸电影,https://live.goodiptv.club/api/huya.php?id=11352897
+虎牙电影1,https://live.goodiptv.club/api/huya.php?id=11602058
+虎牙电影2,https://live.goodiptv.club/api/huya.php?id=11601968
+虎牙电影3,https://live.goodiptv.club/api/huya.php?id=11342412
+虎牙电影4,https://live.goodiptv.club/api/huya.php?id=11342386
+虎牙电影5,https://live.goodiptv.club/api/huya.php?id=11601986
+虎牙电影6,https://live.goodiptv.club/api/huya.php?id=11601971
+虎牙电影7,https://live.goodiptv.club/api/huya.php?id=11336592
+虎牙电影8,https://live.goodiptv.club/api/huya.php?id=11342390
+虎牙电影9,https://live.goodiptv.club/api/huya.php?id=11352941
+虎牙电影10,https://live.goodiptv.club/api/huya.php?id=11279251
+虎牙电影11,https://live.goodiptv.club/api/huya.php?id=11602041
+虎牙电影12,https://live.goodiptv.club/api/huya.php?id=11352963
+虎牙电影13,https://live.goodiptv.club/api/huya.php?id=11342414
+虎牙电影14,https://live.goodiptv.club/api/huya.php?id=11602075
+虎牙电影15,https://live.goodiptv.club/api/huya.php?id=11352962
+虎牙电影16,https://live.goodiptv.club/api/huya.php?id=11336571
+虎牙电影17,https://live.goodiptv.club/api/huya.php?id=11342427
+虎牙电影18,https://live.goodiptv.club/api/huya.php?id=11336719
+虎牙电影19,https://live.goodiptv.club/api/huya.php?id=11352894
+虎牙电影20,https://live.goodiptv.club/api/huya.php?id=11352877
+虎牙电影21,https://live.goodiptv.club/api/huya.php?id=11602077
 
 
 
@@ -380,153 +380,153 @@ Liz陪看,http://epg.112114.xyz/douyu/7254536
 
 
 明星轮播,#genre#
-成龙,https://live.metshop.top/huya/11342386
-洪金宝,https://live.metshop.top/huya/11279251
-李连杰,https://live.metshop.top/huya/11342390
-周星驰,https://live.metshop.top/huya/11342412
-林正英,https://live.metshop.top/huya/11342421
-周润发,https://live.metshop.top/huya/11342387
-沈腾,https://live.metshop.top/huya/11601968
-徐克,https://live.metshop.top/huya/11352909
-邱淑贞,https://live.metshop.top/huya/11336571
-刘德华,https://live.metshop.top/huya/11342424
-甄子丹,https://live.metshop.top/huya/11352935
-王晶,https://live.metshop.top/huya/11602058
-梁家辉,https://live.metshop.top/huya/11342429
-杰森·斯坦森,https://live.metshop.top/huya/21059588
-陈小春,https://live.metshop.top/huya/23865080
-黄百鸣,https://live.metshop.top/huya/11342423
-徐峥,https://live.metshop.top/huya/11602043
-黄渤,https://live.metshop.top/huya/11352876
-冯小刚,https://live.metshop.top/huya/11352906
-曾江,https://live.metshop.top/huya/11601981
+成龙,https://live.goodiptv.club/api/huya.php?id=11342386
+洪金宝,https://live.goodiptv.club/api/huya.php?id=11279251
+李连杰,https://live.goodiptv.club/api/huya.php?id=11342390
+周星驰,https://live.goodiptv.club/api/huya.php?id=11342412
+林正英,https://live.goodiptv.club/api/huya.php?id=11342421
+周润发,https://live.goodiptv.club/api/huya.php?id=11342387
+沈腾,https://live.goodiptv.club/api/huya.php?id=11601968
+徐克,https://live.goodiptv.club/api/huya.php?id=11352909
+邱淑贞,https://live.goodiptv.club/api/huya.php?id=11336571
+刘德华,https://live.goodiptv.club/api/huya.php?id=11342424
+甄子丹,https://live.goodiptv.club/api/huya.php?id=11352935
+王晶,https://live.goodiptv.club/api/huya.php?id=11602058
+梁家辉,https://live.goodiptv.club/api/huya.php?id=11342429
+杰森·斯坦森,https://live.goodiptv.club/api/huya.php?id=21059588
+陈小春,https://live.goodiptv.club/api/huya.php?id=23865080
+黄百鸣,https://live.goodiptv.club/api/huya.php?id=11342423
+徐峥,https://live.goodiptv.club/api/huya.php?id=11602043
+黄渤,https://live.goodiptv.club/api/huya.php?id=11352876
+冯小刚,https://live.goodiptv.club/api/huya.php?id=11352906
+曾江,https://live.goodiptv.club/api/huya.php?id=11601981
 赵本山,http://epg.112114.xyz/douyu/9817716
 
 
 
 埋堆堆播,#genre#
 
-埋堆堆1,https://live.metshop.top/huya/23749096
+埋堆堆1,https://live.goodiptv.club/api/huya.php?id=23749096
 
-埋堆堆2,https://live.metshop.top/huya/23735126
+埋堆堆2,https://live.goodiptv.club/api/huya.php?id=23735126
 
-埋堆堆3,https://live.metshop.top/huya/23865152
+埋堆堆3,https://live.goodiptv.club/api/huya.php?id=23865152
 
-埋堆堆4,https://live.metshop.top/huya/23903196
+埋堆堆4,https://live.goodiptv.club/api/huya.php?id=23903196
 
-埋堆堆5,https://live.metshop.top/huya/23740156
+埋堆堆5,https://live.goodiptv.club/api/huya.php?id=23740156
 
-埋堆堆6,https://live.metshop.top/huya/23728660
+埋堆堆6,https://live.goodiptv.club/api/huya.php?id=23728660
 
-埋堆堆7,https://live.metshop.top/huya/23735153
+埋堆堆7,https://live.goodiptv.club/api/huya.php?id=23735153
 
-埋堆堆8,https://live.metshop.top/huya/23865058
+埋堆堆8,https://live.goodiptv.club/api/huya.php?id=23865058
 
-埋堆堆9,https://live.metshop.top/huya/23734183
+埋堆堆9,https://live.goodiptv.club/api/huya.php?id=23734183
 
-埋堆堆10,https://live.metshop.top/huya/23749068
+埋堆堆10,https://live.goodiptv.club/api/huya.php?id=23749068
 
-埋堆堆11,https://live.metshop.top/huya/23865036
+埋堆堆11,https://live.goodiptv.club/api/huya.php?id=23865036
 
-埋堆堆12,https://live.metshop.top/huya/23740162
+埋堆堆12,https://live.goodiptv.club/api/huya.php?id=23740162
 
-埋堆堆13,https://live.metshop.top/huya/23829474
+埋堆堆13,https://live.goodiptv.club/api/huya.php?id=23829474
 
-埋堆堆14,https://live.metshop.top/huya/23863833
+埋堆堆14,https://live.goodiptv.club/api/huya.php?id=23863833
 
-埋堆堆15,https://live.metshop.top/huya/23903106
+埋堆堆15,https://live.goodiptv.club/api/huya.php?id=23903106
 
-埋堆堆16,https://live.metshop.top/huya/23865025
+埋堆堆16,https://live.goodiptv.club/api/huya.php?id=23865025
 
-埋堆堆17,https://live.metshop.top/huya/23728689
+埋堆堆17,https://live.goodiptv.club/api/huya.php?id=23728689
 
-埋堆堆18,https://live.metshop.top/huya/23824171
+埋堆堆18,https://live.goodiptv.club/api/huya.php?id=23824171
 
-埋堆堆19,https://live.metshop.top/huya/23860057
+埋堆堆19,https://live.goodiptv.club/api/huya.php?id=23860057
 
-埋堆堆20,https://live.metshop.top/huya/23865072
+埋堆堆20,https://live.goodiptv.club/api/huya.php?id=23865072
 
-埋堆堆21,https://live.metshop.top/huya/23734176
+埋堆堆21,https://live.goodiptv.club/api/huya.php?id=23734176
 
-埋堆堆22,https://live.metshop.top/huya/23728651
+埋堆堆22,https://live.goodiptv.club/api/huya.php?id=23728651
 
-埋堆堆23,https://live.metshop.top/huya/23734246
+埋堆堆23,https://live.goodiptv.club/api/huya.php?id=23734246
 
-埋堆堆24,https://live.metshop.top/huya/23865179
+埋堆堆24,https://live.goodiptv.club/api/huya.php?id=23865179
 
-埋堆堆25,https://live.metshop.top/huya/23734196
+埋堆堆25,https://live.goodiptv.club/api/huya.php?id=23734196
 
-埋堆堆26,https://live.metshop.top/huya/23734211
+埋堆堆26,https://live.goodiptv.club/api/huya.php?id=23734211
 
-埋堆堆27,https://live.metshop.top/huya/23865086
+埋堆堆27,https://live.goodiptv.club/api/huya.php?id=23865086
 
-埋堆堆28,https://live.metshop.top/huya/23863796
+埋堆堆28,https://live.goodiptv.club/api/huya.php?id=23863796
 
-埋堆堆29,https://live.metshop.top/huya/23863822
+埋堆堆29,https://live.goodiptv.club/api/huya.php?id=23863822
 
-埋堆堆30,https://live.metshop.top/huya/23749083
+埋堆堆30,https://live.goodiptv.club/api/huya.php?id=23749083
 
-埋堆堆31,https://live.metshop.top/huya/23734243
+埋堆堆31,https://live.goodiptv.club/api/huya.php?id=23734243
 
-埋堆堆32,https://live.metshop.top/huya/23864480
+埋堆堆32,https://live.goodiptv.club/api/huya.php?id=23864480
 
-埋堆堆33,https://live.metshop.top/huya/23746486
+埋堆堆33,https://live.goodiptv.club/api/huya.php?id=23746486
 
-埋堆堆34,https://live.metshop.top/huya/23860049
+埋堆堆34,https://live.goodiptv.club/api/huya.php?id=23860049
 
-埋堆堆35,https://live.metshop.top/huya/23749074
+埋堆堆35,https://live.goodiptv.club/api/huya.php?id=23749074
 
-埋堆堆36,https://live.metshop.top/huya/23863882
+埋堆堆36,https://live.goodiptv.club/api/huya.php?id=23863882
 
-埋堆堆37,https://live.metshop.top/huya/23863778
+埋堆堆37,https://live.goodiptv.club/api/huya.php?id=23863778
 
-埋堆堆38,https://live.metshop.top/huya/23824164
+埋堆堆38,https://live.goodiptv.club/api/huya.php?id=23824164
 
-埋堆堆39,https://live.metshop.top/huya/23829537
+埋堆堆39,https://live.goodiptv.club/api/huya.php?id=23829537
 
-埋堆堆40,https://live.metshop.top/huya/23863809
+埋堆堆40,https://live.goodiptv.club/api/huya.php?id=23863809
 
-埋堆堆41,https://live.metshop.top/huya/23865096
+埋堆堆41,https://live.goodiptv.club/api/huya.php?id=23865096
 
-埋堆堆42,https://live.metshop.top/huya/23863804
+埋堆堆42,https://live.goodiptv.club/api/huya.php?id=23863804
 
-埋堆堆43,https://live.metshop.top/huya/23728630
+埋堆堆43,https://live.goodiptv.club/api/huya.php?id=23728630
 
-埋堆堆44,https://live.metshop.top/huya/23863895
+埋堆堆44,https://live.goodiptv.club/api/huya.php?id=23863895
 
-埋堆堆45,https://live.metshop.top/huya/23863787
+埋堆堆45,https://live.goodiptv.club/api/huya.php?id=23863787
 
-埋堆堆46,https://live.metshop.top/huya/23728637
+埋堆堆46,https://live.goodiptv.club/api/huya.php?id=23728637
 
-埋堆堆47,https://live.metshop.top/huya/23865142
+埋堆堆47,https://live.goodiptv.club/api/huya.php?id=23865142
 
-埋堆堆48,https://live.metshop.top/huya/23903085
+埋堆堆48,https://live.goodiptv.club/api/huya.php?id=23903085
 
-埋堆堆49,https://live.metshop.top/huya/23903183
+埋堆堆49,https://live.goodiptv.club/api/huya.php?id=23903183
 
-埋堆堆50,https://live.metshop.top/huya/23728647
+埋堆堆50,https://live.goodiptv.club/api/huya.php?id=23728647
 
-埋堆堆51,https://live.metshop.top/huya/23746691
+埋堆堆51,https://live.goodiptv.club/api/huya.php?id=23746691
 
-埋堆堆52,https://live.metshop.top/huya/23829447
+埋堆堆52,https://live.goodiptv.club/api/huya.php?id=23829447
 
-埋堆堆53,https://live.metshop.top/huya/23728693
+埋堆堆53,https://live.goodiptv.club/api/huya.php?id=23728693
 
-埋堆堆54,https://live.metshop.top/huya/23903130
+埋堆堆54,https://live.goodiptv.club/api/huya.php?id=23903130
 
-埋堆堆55,https://live.metshop.top/huya/23734223
+埋堆堆55,https://live.goodiptv.club/api/huya.php?id=23734223
 
-埋堆堆56,https://live.metshop.top/huya/23734169
+埋堆堆56,https://live.goodiptv.club/api/huya.php?id=23734169
 
-埋堆堆57,https://live.metshop.top/huya/23865124
+埋堆堆57,https://live.goodiptv.club/api/huya.php?id=23865124
 
-埋堆堆58,https://live.metshop.top/huya/23865186
+埋堆堆58,https://live.goodiptv.club/api/huya.php?id=23865186
 
-埋堆堆59,https://live.metshop.top/huya/23902225
+埋堆堆59,https://live.goodiptv.club/api/huya.php?id=23902225
 
-埋堆堆60,https://live.metshop.top/huya/23903164
+埋堆堆60,https://live.goodiptv.club/api/huya.php?id=23903164
 
-埋堆堆61,https://live.metshop.top/huya/2372867
+埋堆堆61,https://live.goodiptv.club/api/huya.php?id=2372867
 
 
 纪录专区,#genre#
@@ -7877,7 +7877,7 @@ PUA套路街边素人受精,https://t17.cdn2020.com:12341/video/m3u8/2022/04/07/
 麻豆MD0110-3.秦可欣.苏清歌.夏晴子.C位女优出道夜.女优学姐协力出演4P巨作.AV篇,https://t7.cdn2020.com/video/m3u8/2021/05/16/66f6f533/index.m3u8
 麻豆MDS001.女友通话中被男友硬上.林思妤.饥渴女友电话中.急性男友强势插入,https://t6s.cdn2020.com/video/m3u8/2021/01/28/dad05c23/index.m3u8
 麻豆MDX0020沈芯语穷小子大翻身 玩神殿致富爆操女神,https://t5s.cdn2020.com/video/m3u8/2020/10/22/8abd582a/index.m3u8
-麻豆MDX0026逆袭黑社会大姐艾秋 大马仔上位报复捆绑调教​,https://t6s.cdn2020.com/video/m3u8/2020/12/19/6684a827/index.m3u8
+麻豆MDX0026逆袭黑社会大姐艾秋 大马仔上位报复捆绑调教?,https://t6s.cdn2020.com/video/m3u8/2020/12/19/6684a827/index.m3u8
 麻豆X皇家華人 妹妹的慾望逆襲 爸媽不在家 妹妹很想吃棒棒,https://v5.szjal.cn/20210115/YBwrRAnk/index.m3u8
 麻豆x爱豆MAD007当家花旦的堕落之路-文冰冰,https://t7.cdn2020.com/video/m3u8/2021/06/10/3e8c4e4c/index.m3u8
 麻豆x皇家华人.粗暴水电工.人妻饥渴难耐主动求爱.到底是修理水电还是修理我,https://t5s.cdn2020.com/video/m3u8/2020/11/27/6f04e820/index.m3u8
