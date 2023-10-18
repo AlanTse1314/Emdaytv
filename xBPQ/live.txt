@@ -1,6 +1,13 @@
 ﻿
 
 
+
+关于作者,#genre#
+微信号Emday,http://tv.nxog.top/m/404/xjj.php
+软件免费，请勿商用,http://tv.nxog.top/m/404/xjj.php
+
+
+
 央卫频道,#genre#
 CCTV1,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
 CCTV2,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
