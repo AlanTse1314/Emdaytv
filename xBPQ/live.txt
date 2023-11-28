@@ -227,33 +227,10 @@ IPTV精选热播,http://dx-wan.hnyande.com:8888/udp/239.1.1.44:1025
 
 网络直播,#genre# 
 
-王者荣耀KPL,https://live.goodiptv.club/api/huya.php?id=660002
+王者荣耀KPL,http://43.138.170.29:35455/huya/660002
 斗鱼音乐一,http://epg.112114.xyz/douyu/9588891
-陈翔六点半,https://www.goodiptv.club/huya/11274154
-虎牙-林正英,http://43.138.170.29:35455/huya/11342421
-虎牙-沈腾,http://43.138.170.29:35455/huya/11601968
-虎牙-猫和老鼠,http://43.138.170.29:35455/huya/11352879
-虎牙-成龙,http://43.138.170.29:35455/huya/11342386
-虎牙-李连杰,http://43.138.170.29:35455/huya/11342390
-虎牙-刘德华,http://43.138.170.29:35455/huya/11342424
-虎牙-王晶,http://43.138.170.29:35455/huya/11602058
-虎牙-中华小当家,http://43.138.170.29:35455/huya/11342413
-虎牙-杰森·斯坦森,http://43.138.170.29:35455/huya/21059588
-虎牙-喜剧专场,http://43.138.170.29:35455/huya/11602044
-虎牙-甄子丹,http://43.138.170.29:35455/huya/11352935
-虎牙-巨石强森,http://43.138.170.29:35455/huya/21059581
-虎牙-洪金宝,http://43.138.170.29:35455/huya/11279251
-虎牙-詹姆斯邦德,http://43.138.170.29:35455/huya/21059585
-虎牙-徐克,http://43.138.170.29:35455/huya/11352909
-虎牙-周润发,http://43.138.170.29:35455/huya/11342387
-虎牙-徐峥,http://43.138.170.29:35455/huya/11602043
-虎牙-许氏三杰,http://43.138.170.29:35455/huya/11602033
-虎牙-黄渤,http://43.138.170.29:35455/huya/11352876
-虎牙-张卫健,http://43.138.170.29:35455/huya/11342423
-虎牙-冯小刚,http://43.138.170.29:35455/huya/11352906
+陈翔六点半,http://43.138.170.29:35455/huya/11274154
 虎牙-百鸟朝凤,http://43.138.170.29:35455/huya/15894162
-虎牙-陈翔六点半,http://43.138.170.29:35455/huya/11274154
-虎牙-电锯惊魂系列,http://43.138.170.29:35455/huya/11352903
 虎牙-港台电影,http://43.138.170.29:35455/huya/880261
 虎牙-高分电影,http://43.138.170.29:35455/huya/16615910
 虎牙-搞笑僵尸片,http://43.138.170.29:35455/huya/11352963
@@ -280,6 +257,7 @@ IPTV精选热播,http://dx-wan.hnyande.com:8888/udp/239.1.1.44:1025
 虎牙-欧美电影,http://43.138.170.29:35455/huya/21059581
 虎牙-欧美娱乐,http://43.138.170.29:35455/huya/21059574
 虎牙-倩女幽魂,http://43.138.170.29:35455/huya/11601970
+虎牙-电锯惊魂系列,http://43.138.170.29:35455/huya/11352903
 女神影院,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
 港台电影,http://43.138.170.29:35455/huya/880261
 黑帮斗争,http://43.138.170.29:35455/huya/11342419
@@ -320,206 +298,112 @@ IPTV精选热播,http://dx-wan.hnyande.com:8888/udp/239.1.1.44:1025
 虎牙-喜剧合家欢,http://43.138.170.29:35455/huya/11352877
 虎牙-喜剧专场,http://43.138.170.29:35455/huya/11602044
 虎牙-小鲤鱼,http://43.138.170.29:35455/huya/11601961
-星爷,https://ygbh--xingkongbujian.repl.co/huya/11342412
-英叔,https://ygbh--xingkongbujian.repl.co/huya/11342421
-发哥,https://ygbh--xingkongbujian.repl.co/huya/11342387
-成龙,https://ygbh--xingkongbujian.repl.co/huya/11342386
-王晶,https://ygbh--xingkongbujian.repl.co/huya/11602058
-沈腾,https://ygbh--xingkongbujian.repl.co/huya/11601968
-黄渤,https://ygbh--xingkongbujian.repl.co/huya/11352876
-强森,https://ygbh--xingkongbujian.repl.co/huya/21059581
-漫威,https://ygbh--xingkongbujian.repl.co/huya/11602034
-宇宙,https://ygbh--xingkongbujian.repl.co/huya/11342428
-怪兽,https://ygbh--xingkongbujian.repl.co/huya/21059577
-武侠,https://ygbh--xingkongbujian.repl.co/huya/11342427
-警匪,https://ygbh--xingkongbujian.repl.co/huya/11352886
-罪犯,https://ygbh--xingkongbujian.repl.co/huya/11352962
-枪战,https://ygbh--xingkongbujian.repl.co/huya/21059579
-海盗,https://ygbh--xingkongbujian.repl.co/huya/21059595
-赛车,https://ygbh--xingkongbujian.repl.co/huya/11279247
-推荐,https://ygbh--xingkongbujian.repl.co/huya/11602041
-救援,https://ygbh--xingkongbujian.repl.co/huya/21059594
-热血,https://ygbh--xingkongbujian.repl.co/huya/11352934
-盗墓,https://ygbh--xingkongbujian.repl.co/huya/21059552
-贺岁,https://ygbh--xingkongbujian.repl.co/huya/11601971
-玄幻,https://ygbh--xingkongbujian.repl.co/huya/11342414
-谍战,https://ygbh--xingkongbujian.repl.co/huya/21059585
-战争,https://ygbh--xingkongbujian.repl.co/huya/21059592
-喜剧,https://ygbh--xingkongbujian.repl.co/huya/11352877
-港片,https://ygbh--xingkongbujian.repl.co/huya/11602043
-国产,https://ygbh--xingkongbujian.repl.co/huya/11352973
-周星星,https://ygbh--xingkongbujian.repl.co/huya/11336587
-李连杰,https://ygbh--xingkongbujian.repl.co/huya/11342390
-洪金宝,https://ygbh--xingkongbujian.repl.co/huya/11279251
-梁家辉,https://ygbh--xingkongbujian.repl.co/huya/11342429
-许冠英,https://ygbh--xingkongbujian.repl.co/huya/11601972
-刘德华,https://ygbh--xingkongbujian.repl.co/huya/11342424
-斯坦森,https://ygbh--xingkongbujian.repl.co/huya/21059588
-小鬼头,https://ygbh--xingkongbujian.repl.co/huya/11352963
-八点档,https://ygbh--xingkongbujian.repl.co/huya/880261
-蜘蛛侠,https://ygbh--xingkongbujian.repl.co/huya/21059599
-贺岁片,https://ygbh--xingkongbujian.repl.co/huya/11601986
-功夫片,https://ygbh--xingkongbujian.repl.co/huya/11352941
-黑帮片,https://ygbh--xingkongbujian.repl.co/huya/11336719
-丧尸片,https://ygbh--xingkongbujian.repl.co/huya/21059578
-灾难片,https://ygbh--xingkongbujian.repl.co/huya/11602075
-谍战片,https://ygbh--xingkongbujian.repl.co/huya/21059587
-战争片,https://ygbh--xingkongbujian.repl.co/huya/21059574
-犯罪片,https://ygbh--xingkongbujian.repl.co/huya/11352974
-古装片,https://ygbh--xingkongbujian.repl.co/huya/11336590
-高分动作,https://ygbh--xingkongbujian.repl.co/huya/11352884
-动作电影,https://ygbh--xingkongbujian.repl.co/huya/11602077
-搞笑喜剧,https://ygbh--xingkongbujian.repl.co/huya/11342423
-喜剧专场,https://ygbh--xingkongbujian.repl.co/huya/11602044
-欢笑影院,https://ygbh--xingkongbujian.repl.co/huya/11352894
-不挤影院,https://ygbh--xingkongbujian.repl.co/huya/11352897
-国产悬疑,https://ygbh--xingkongbujian.repl.co/huya/11342395
-快意江湖,https://ygbh--xingkongbujian.repl.co/huya/11342435
-黑帮斗争,https://ygbh--xingkongbujian.repl.co/huya/11342419
-古墓系列,https://ygbh--xingkongbujian.repl.co/huya/11352913
-嫣然影厅,https://ygbh--xingkongbujian.repl.co/huya/11601977
-女神系列,https://ygbh--xingkongbujian.repl.co/huya/11336571
-经典女神,https://ygbh--xingkongbujian.repl.co/huya/11352909
-许氏三杰,https://ygbh--xingkongbujian.repl.co/huya/11602033
-经典港片,https://ygbh--xingkongbujian.repl.co/huya/11352965
-镖行天下,https://ygbh--xingkongbujian.repl.co/huya/11352969
-高能反转,https://ygbh--xingkongbujian.repl.co/huya/11352887
-喜乐影院,https://ygbh--xingkongbujian.repl.co/huya/21059580
-蘑菇影厅,https://ygbh--xingkongbujian.repl.co/huya/11601981
-搞笑恐怖,https://ygbh--xingkongbujian.repl.co/huya/11601960
-死神来了,https://ygbh--xingkongbujian.repl.co/huya/11352903
-变形金刚,https://ygbh--xingkongbujian.repl.co/huya/21059596
-怪兽系列,https://ygbh--xingkongbujian.repl.co/huya/21059554
-老三国,https://ygbh--xingkongbujian.repl.co/huya/11602081
-新三国,https://ygbh--xingkongbujian.repl.co/huya/11352944
-新水浒,https://ygbh--xingkongbujian.repl.co/huya/11342384
-纪晓岚,https://ygbh--xingkongbujian.repl.co/huya/11342396
-庆余年,https://ygbh--xingkongbujian.repl.co/huya/11352960
-雍正王朝,https://ygbh--xingkongbujian.repl.co/huya/11342439
-士兵突击,https://ygbh--xingkongbujian.repl.co/huya/11342430
-爱情公寓,https://ygbh--xingkongbujian.repl.co/huya/11336726
-家有儿女,https://ygbh--xingkongbujian.repl.co/huya/11352872
-武林外传,https://ygbh--xingkongbujian.repl.co/huya/21059598
-地下交通站,https://ygbh--xingkongbujian.repl.co/huya/11342433
-邻里一家亲,https://ygbh--xingkongbujian.repl.co/huya/11342426
-舌尖上的中国,https://www.goodiptv.club/huya/11352955
-周星驰,https://www.goodiptv.club/huya/11342412
-成龙,https://www.goodiptv.club/huya/11342386
-吴京,https://www.goodiptv.club/huya/11602045
-徐峥,https://www.goodiptv.club/huya/11602043
-古天乐,https://www.goodiptv.club/huya/10871113
-林正英,https://www.goodiptv.club/huya/11342421
-刘德华,https://www.goodiptv.club/huya/11342424
-周润发,https://www.goodiptv.club/huya/11342387
-梁朝伟,https://www.goodiptv.club/huya/11602046
-洪金宝,https://www.goodiptv.club/huya/11342427
-孙红雷,https://www.goodiptv.club/huya/11352973
-李连杰,https://www.goodiptv.club/huya/11342390
-张国荣,https://www.goodiptv.club/huya/11602034
-释小龙,https://www.goodiptv.club/huya/11342402
-香港恐怖,https://www.goodiptv.club/huya/11601960
-女神系列,https://www.goodiptv.club/huya/11336571
-周星驰放映厅,https://www.goodiptv.club/huya/19105261
-五福星系列,https://www.goodiptv.club/huya/11282233
-快乐同居生活,https://www.goodiptv.club/huya/11336726
-武林外传,https://www.goodiptv.club/huya/11352915
-贺岁片,https://www.goodiptv.club/huya/11601986
-蜡笔小新,https://www.goodiptv.club/huya/11352970
-新三国,https://www.goodiptv.club/huya/11352944
-铁齿铜牙纪晓岚,https://www.goodiptv.club/huya/11342396
-奔跑吧兄弟,https://www.goodiptv.club/huya/11601972
-极限挑战,https://www.goodiptv.club/huya/11352914
-虎牙八点档,https://www.goodiptv.club/huya/880261
-我是特种兵,https://www.goodiptv.club/huya/11342385
-黑帮大片,https://www.goodiptv.club/huya/11336719
-人民的名义,https://www.goodiptv.club/huya/11342425
-亮剑,https://www.goodiptv.club/huya/11342434
-少年包青天,https://www.goodiptv.club/huya/11342393
-神探狄仁杰,https://www.goodiptv.club/huya/11352958
-各国赌片,https://www.goodiptv.club/huya/11342399
-高智商犯罪片,https://www.goodiptv.club/huya/11352962
-新水浒传,https://www.goodiptv.club/huya/11342383
-奥特曼,https://www.goodiptv.club/huya/11601977
-鹿鼎记,https://www.goodiptv.club/huya/11352910
-龙门镖局,https://www.goodiptv.club/huya/11352874
-网球王子,https://www.goodiptv.club/huya/11352822
-三国演义,https://www.goodiptv.club/huya/11602081
-沈腾贾玲黄渤,https://www.goodiptv.club/huya/11601961
-父母爱情,https://www.goodiptv.club/huya/11342439
-家有儿女,https://www.goodiptv.club/huya/11352872
-美剧越狱,https://www.goodiptv.club/huya/20488841
-康熙微服私访记,https://www.goodiptv.club/huya/11342418
-猫和老鼠,https://www.goodiptv.club/huya/11352879
-神医喜来乐,https://www.goodiptv.club/huya/11601978
-热血女子摔跤,https://www.goodiptv.club/huya/20072872
-雍正王朝,https://www.goodiptv.club/huya/11352936
-张卫健班西游记,https://www.goodiptv.club/huya/11342395
-相声小品,https://www.goodiptv.club/huya/11336593
-金庸系列,https://www.goodiptv.club/huya/11352878
-倚天屠龙记,https://www.goodiptv.club/huya/11342403
-新还珠格格,https://www.goodiptv.club/huya/11342415
-回家的诱惑,https://www.goodiptv.club/huya/11352920
-隋唐英雄传,https://www.goodiptv.club/huya/11352890
-动作悬疑片,https://www.goodiptv.club/huya/11602077
-西游记,https://www.goodiptv.club/huya/11602031
-任达华,https://www.goodiptv.club/huya/11352883
-剃刀边缘,https://www.goodiptv.club/huya/11602036
-咱们结婚吧,https://www.goodiptv.club/huya/11342394
-世纪贼王张子强,https://www.goodiptv.club/huya/11352940
-国产喜剧电影,https://www.goodiptv.club/huya/11602044
-水浒传,https://www.goodiptv.club/huya/11352892
-大秦帝国裂变,https://www.goodiptv.club/huya/11352918
-美食纪录片,https://www.goodiptv.club/huya/11352955
-中华小当家,https://www.goodiptv.club/huya/11342413
-医馆笑传,https://www.goodiptv.club/huya/11352891
+
+
+
+香港恐怖,http://43.138.170.29:35455/huya/11601960
+女神系列,http://43.138.170.29:35455/huya/11336571
+周星驰放映厅,http://43.138.170.29:35455/huya/19105261
+五福星系列,http://43.138.170.29:35455/huya/11282233
+快乐同居生活,http://43.138.170.29:35455/huya/11336726
+武林外传,http://43.138.170.29:35455/huya/11352915
+贺岁片,http://43.138.170.29:35455/huya/11601986
+蜡笔小新,http://43.138.170.29:35455/huya/11352970
+新三国,http://43.138.170.29:35455/huya/11352944
+铁齿铜牙纪晓岚,http://43.138.170.29:35455/huya/11342396
+奔跑吧兄弟,http://43.138.170.29:35455/huya/11601972
+极限挑战,http://43.138.170.29:35455/huya/11352914
+虎牙八点档,http://43.138.170.29:35455/huya/880261
+我是特种兵,http://43.138.170.29:35455/huya/11342385
+黑帮大片,http://43.138.170.29:35455/huya/11336719
+人民的名义,http://43.138.170.29:35455/huya/11342425
+亮剑,http://43.138.170.29:35455/huya/11342434
+少年包青天,http://43.138.170.29:35455/huya/11342393
+神探狄仁杰,http://43.138.170.29:35455/huya/11352958
+各国赌片,http://43.138.170.29:35455/huya/11342399
+高智商犯罪片,http://43.138.170.29:35455/huya/11352962
+新水浒传,http://43.138.170.29:35455/huya/11342383
+奥特曼,http://43.138.170.29:35455/huya/11601977
+鹿鼎记,http://43.138.170.29:35455/huya/11352910
+龙门镖局,http://43.138.170.29:35455/huya/11352874
+网球王子,http://43.138.170.29:35455/huya/11352822
+三国演义,http://43.138.170.29:35455/huya/11602081
+沈腾贾玲黄渤,http://43.138.170.29:35455/huya/11601961
+父母爱情,http://43.138.170.29:35455/huya/11342439
+家有儿女,http://43.138.170.29:35455/huya/11352872
+美剧越狱,http://43.138.170.29:35455/huya/20488841
+康熙微服私访记,http://43.138.170.29:35455/huya/11342418
+猫和老鼠,http://43.138.170.29:35455/huya/11352879
+神医喜来乐,http://43.138.170.29:35455/huya/11601978
+热血女子摔跤,http://43.138.170.29:35455/huya/20072872
+雍正王朝,http://43.138.170.29:35455/huya/11352936
+张卫健班西游记,http://43.138.170.29:35455/huya/11342395
+相声小品,http://43.138.170.29:35455/huya/11336593
+金庸系列,http://43.138.170.29:35455/huya/11352878
+倚天屠龙记,http://43.138.170.29:35455/huya/11342403
+新还珠格格,http://43.138.170.29:35455/huya/11342415
+回家的诱惑,http://43.138.170.29:35455/huya/11352920
+隋唐英雄传,http://43.138.170.29:35455/huya/11352890
+动作悬疑片,http://43.138.170.29:35455/huya/11602077
+西游记,http://43.138.170.29:35455/huya/11602031
+任达华,http://43.138.170.29:35455/huya/11352883
+剃刀边缘,http://43.138.170.29:35455/huya/11602036
+咱们结婚吧,http://43.138.170.29:35455/huya/11342394
+世纪贼王张子强,http://43.138.170.29:35455/huya/11352940
+国产喜剧电影,http://43.138.170.29:35455/huya/11602044
+水浒传,http://43.138.170.29:35455/huya/11352892
+大秦帝国裂变,http://43.138.170.29:35455/huya/11352918
+美食纪录片,http://43.138.170.29:35455/huya/11352955
+中华小当家,http://43.138.170.29:35455/huya/11342413
+医馆笑传,http://43.138.170.29:35455/huya/11352891
 更多资源,http://zb.iptv6.top/gg/gg1/dsm.m3u8
-勇敢的心,https://www.goodiptv.club/huya/11602037
-甄子丹电影,https://www.goodiptv.club/huya/11352935
-楚汉传奇,https://www.goodiptv.club/huya/11342392
-僵尸电影,https://www.goodiptv.club/huya/19285234
-情深深雨蒙蒙,https://www.goodiptv.club/huya/11352885
-花千骨,https://www.goodiptv.club/huya/11342433
-魔幻神剧,https://www.goodiptv.club/huya/11602065
-粤语经典喜剧,https://www.goodiptv.club/huya/11352894
-屌丝男士,https://www.goodiptv.club/huya/11342420
-法医秦明,https://www.goodiptv.club/huya/11352950
-怀念金庸,https://www.goodiptv.club/huya/11352897
-寻秦记,https://www.goodiptv.club/huya/11342417
-血色浪漫,https://www.goodiptv.club/huya/11602055
-国产动作大片,https://www.goodiptv.club/huya/11352896
-陆小凤系列,https://www.goodiptv.club/huya/11336725
-步步惊心,https://www.goodiptv.club/huya/11601965
-奋斗,https://www.goodiptv.club/huya/11352959
-仙剑奇侠传,https://www.goodiptv.club/huya/11336579
-封神榜,https://www.goodiptv.club/huya/11342404
-杨门女将,https://www.goodiptv.club/huya/11336590
-火线追凶系列,https://www.goodiptv.club/huya/11602069
-国产青春爱情,https://www.goodiptv.club/huya/11602075
-张家辉梁家辉,https://www.goodiptv.club/huya/11352916
-2134港片女神,https://www.goodiptv.club/huya/11342429
-黑猫警长,https://www.goodiptv.club/huya/11352974
-灾难片,https://www.goodiptv.club/huya/11352871
-郭富城合集,https://www.goodiptv.club/huya/11352876
-张学友合集,https://www.goodiptv.club/huya/11352906
-乾隆王朝,https://www.goodiptv.club/huya/11352954
-笑傲江湖,https://www.goodiptv.club/huya/11352837
-僵尸道长,https://www.goodiptv.club/huya/11352963
-今晚80后,https://www.goodiptv.club/huya/11352961
-武媚娘传奇,https://www.goodiptv.club/huya/11601964
-中国刑侦一号案,https://www.goodiptv.club/huya/11352967
-樱桃小丸子,https://www.goodiptv.club/huya/11602067
-侠侣探案系列,https://www.goodiptv.club/huya/11352893
-古装探案系列,https://www.goodiptv.club/huya/11352917
-感人高分电影,https://www.goodiptv.club/huya/15452736
-光头神探,https://www.goodiptv.club/huya/11342397
-射雕英雄传,https://www.goodiptv.club/huya/21674665
-飞车电影,https://www.goodiptv.club/huya/11279247
-中国达人秀,https://www.goodiptv.club/huya/11602047
-卧底警匪片,https://www.goodiptv.club/huya/11352886
-郭德纲脱口秀,https://www.goodiptv.club/huya/11352945
-国内动画,https://www.goodiptv.club/huya/11342428
-镖行天下,https://www.goodiptv.club/huya/11352969
-小公举,https://www.goodiptv.club/huya/11601968
+勇敢的心,http://43.138.170.29:35455/huya/11602037
+甄子丹电影,http://43.138.170.29:35455/huya/11352935
+楚汉传奇,http://43.138.170.29:35455/huya/11342392
+僵尸电影,http://43.138.170.29:35455/huya/19285234
+情深深雨蒙蒙,http://43.138.170.29:35455/huya/11352885
+花千骨,http://43.138.170.29:35455/huya/11342433
+魔幻神剧,http://43.138.170.29:35455/huya/11602065
+粤语经典喜剧,http://43.138.170.29:35455/huya/11352894
+屌丝男士,http://43.138.170.29:35455/huya/11342420
+法医秦明,http://43.138.170.29:35455/huya/11352950
+怀念金庸,http://43.138.170.29:35455/huya/11352897
+寻秦记,http://43.138.170.29:35455/huya/11342417
+血色浪漫,http://43.138.170.29:35455/huya/11602055
+国产动作大片,http://43.138.170.29:35455/huya/11352896
+陆小凤系列,http://43.138.170.29:35455/huya/11336725
+步步惊心,http://43.138.170.29:35455/huya/11601965
+奋斗,http://43.138.170.29:35455/huya/11352959
+仙剑奇侠传,http://43.138.170.29:35455/huya/11336579
+封神榜,http://43.138.170.29:35455/huya/11342404
+杨门女将,http://43.138.170.29:35455/huya/11336590
+火线追凶系列,http://43.138.170.29:35455/huya/11602069
+国产青春爱情,http://43.138.170.29:35455/huya/11602075
+张家辉梁家辉,http://43.138.170.29:35455/huya/11352916
+2134港片女神,http://43.138.170.29:35455/huya/11342429
+黑猫警长,http://43.138.170.29:35455/huya/11352974
+灾难片,http://43.138.170.29:35455/huya/11352871
+郭富城合集,http://43.138.170.29:35455/huya/11352876
+张学友合集,http://43.138.170.29:35455/huya/11352906
+乾隆王朝,http://43.138.170.29:35455/huya/11352954
+笑傲江湖,http://43.138.170.29:35455/huya/11352837
+僵尸道长,http://43.138.170.29:35455/huya/11352963
+今晚80后,http://43.138.170.29:35455/huya/11352961
+武媚娘传奇,http://43.138.170.29:35455/huya/11601964
+中国刑侦一号案,http://43.138.170.29:35455/huya/11352967
+樱桃小丸子,http://43.138.170.29:35455/huya/11602067
+侠侣探案系列,http://43.138.170.29:35455/huya/11352893
+古装探案系列,http://43.138.170.29:35455/huya/11352917
+感人高分电影,http://43.138.170.29:35455/huya/15452736
+光头神探,http://43.138.170.29:35455/huya/11342397
+射雕英雄传,http://43.138.170.29:35455/huya/21674665
+飞车电影,http://43.138.170.29:35455/huya/11279247
+中国达人秀,http://43.138.170.29:35455/huya/11602047
+卧底警匪片,http://43.138.170.29:35455/huya/11352886
+郭德纲脱口秀,http://43.138.170.29:35455/huya/11352945
+国内动画,http://43.138.170.29:35455/huya/11342428
+镖行天下,http://43.138.170.29:35455/huya/11352969
+小公举,http://43.138.170.29:35455/huya/11601968
 
 
 斗鱼电影1,http://epg.112114.xyz/douyu/3637778
@@ -616,153 +500,171 @@ Liz陪看,http://epg.112114.xyz/douyu/7254536
 
 
 明星轮播,#genre#
-成龙,https://live.goodiptv.club/api/huya.php?id=11342386
-洪金宝,https://live.goodiptv.club/api/huya.php?id=11279251
-李连杰,https://live.goodiptv.club/api/huya.php?id=11342390
-周星驰,https://live.goodiptv.club/api/huya.php?id=11342412
-林正英,https://live.goodiptv.club/api/huya.php?id=11342421
-周润发,https://live.goodiptv.club/api/huya.php?id=11342387
-沈腾,https://live.goodiptv.club/api/huya.php?id=11601968
-徐克,https://live.goodiptv.club/api/huya.php?id=11352909
-邱淑贞,https://live.goodiptv.club/api/huya.php?id=11336571
-刘德华,https://live.goodiptv.club/api/huya.php?id=11342424
-甄子丹,https://live.goodiptv.club/api/huya.php?id=11352935
-王晶,https://live.goodiptv.club/api/huya.php?id=11602058
-梁家辉,https://live.goodiptv.club/api/huya.php?id=11342429
-杰森·斯坦森,https://live.goodiptv.club/api/huya.php?id=21059588
-陈小春,https://live.goodiptv.club/api/huya.php?id=23865080
-黄百鸣,https://live.goodiptv.club/api/huya.php?id=11342423
-徐峥,https://live.goodiptv.club/api/huya.php?id=11602043
-黄渤,https://live.goodiptv.club/api/huya.php?id=11352876
-冯小刚,https://live.goodiptv.club/api/huya.php?id=11352906
-曾江,https://live.goodiptv.club/api/huya.php?id=11601981
+
+成龙,http://43.138.170.29:35455/huya/11342386
+洪金宝,http://43.138.170.29:35455/huya/11279251
+李连杰,http://43.138.170.29:35455/huya/11342390
+周星驰,http://43.138.170.29:35455/huya/11342412
+林正英,http://43.138.170.29:35455/huya/11342421
+周润发,http://43.138.170.29:35455/huya/11342387
+沈腾,http://43.138.170.29:35455/huya/11601968
+徐克,http://43.138.170.29:35455/huya/11352909
+邱淑贞,http://43.138.170.29:35455/huya/11336571
+刘德华,http://43.138.170.29:35455/huya/11342424
+甄子丹,http://43.138.170.29:35455/huya/11352935
+王晶,http://43.138.170.29:35455/huya/11602058
+梁家辉,http://43.138.170.29:35455/huya/11342429
+陈小春,http://43.138.170.29:35455/huya/23865080
+黄百鸣,http://43.138.170.29:35455/huya/11342423
+徐峥,http://43.138.170.29:35455/huya/11602043
+黄渤,http://43.138.170.29:35455/huya/11352876
+冯小刚,http://43.138.170.29:35455/huya/11352906
+曾江,http://43.138.170.29:35455/huya/11601981
+张卫健,http://43.138.170.29:35455/huya/11342423
+冯小刚,http://43.138.170.29:35455/huya/11352906
 赵本山,http://epg.112114.xyz/douyu/9817716
+周星驰,http://43.138.170.29:35455/huya/11342412
+成龙,http://43.138.170.29:35455/huya/11342386
+吴京,http://43.138.170.29:35455/huya/11602045
+徐峥,http://43.138.170.29:35455/huya/11602043
+古天乐,http://43.138.170.29:35455/huya/10871113
+林正英,http://43.138.170.29:35455/huya/11342421
+刘德华,http://43.138.170.29:35455/huya/11342424
+周润发,http://43.138.170.29:35455/huya/11342387
+梁朝伟,http://43.138.170.29:35455/huya/11602046
+洪金宝,http://43.138.170.29:35455/huya/11342427
+孙红雷,http://43.138.170.29:35455/huya/11352973
+李连杰,http://43.138.170.29:35455/huya/11342390
+张国荣,http://43.138.170.29:35455/huya/11602034
+释小龙,http://43.138.170.29:35455/huya/11342402
 
-
+杰森·斯坦森,http://43.138.170.29:35455/huya/21059588
+强森,http://43.138.170.29:35455/huya/21059581
+詹姆斯邦德,http://43.138.170.29:35455/huya/21059585
 
 埋堆堆播,#genre#
 
-埋堆堆1,https://live.goodiptv.club/api/huya.php?id=23749096
+埋堆堆1,http://43.138.170.29:35455/huya/23749096
 
-埋堆堆2,https://live.goodiptv.club/api/huya.php?id=23735126
+埋堆堆2,http://43.138.170.29:35455/huya/23735126
 
-埋堆堆3,https://live.goodiptv.club/api/huya.php?id=23865152
+埋堆堆3,http://43.138.170.29:35455/huya/23865152
 
-埋堆堆4,https://live.goodiptv.club/api/huya.php?id=23903196
+埋堆堆4,http://43.138.170.29:35455/huya/23903196
 
-埋堆堆5,https://live.goodiptv.club/api/huya.php?id=23740156
+埋堆堆5,http://43.138.170.29:35455/huya/23740156
 
-埋堆堆6,https://live.goodiptv.club/api/huya.php?id=23728660
+埋堆堆6,http://43.138.170.29:35455/huya/23728660
 
-埋堆堆7,https://live.goodiptv.club/api/huya.php?id=23735153
+埋堆堆7,http://43.138.170.29:35455/huya/23735153
 
-埋堆堆8,https://live.goodiptv.club/api/huya.php?id=23865058
+埋堆堆8,http://43.138.170.29:35455/huya/23865058
 
-埋堆堆9,https://live.goodiptv.club/api/huya.php?id=23734183
+埋堆堆9,http://43.138.170.29:35455/huya/23734183
 
-埋堆堆10,https://live.goodiptv.club/api/huya.php?id=23749068
+埋堆堆10,http://43.138.170.29:35455/huya/23749068
 
-埋堆堆11,https://live.goodiptv.club/api/huya.php?id=23865036
+埋堆堆11,http://43.138.170.29:35455/huya/23865036
 
-埋堆堆12,https://live.goodiptv.club/api/huya.php?id=23740162
+埋堆堆12,http://43.138.170.29:35455/huya/23740162
 
-埋堆堆13,https://live.goodiptv.club/api/huya.php?id=23829474
+埋堆堆13,http://43.138.170.29:35455/huya/23829474
 
-埋堆堆14,https://live.goodiptv.club/api/huya.php?id=23863833
+埋堆堆14,http://43.138.170.29:35455/huya/23863833
 
-埋堆堆15,https://live.goodiptv.club/api/huya.php?id=23903106
+埋堆堆15,http://43.138.170.29:35455/huya/23903106
 
-埋堆堆16,https://live.goodiptv.club/api/huya.php?id=23865025
+埋堆堆16,http://43.138.170.29:35455/huya/23865025
 
-埋堆堆17,https://live.goodiptv.club/api/huya.php?id=23728689
+埋堆堆17,http://43.138.170.29:35455/huya/23728689
 
-埋堆堆18,https://live.goodiptv.club/api/huya.php?id=23824171
+埋堆堆18,http://43.138.170.29:35455/huya/23824171
 
-埋堆堆19,https://live.goodiptv.club/api/huya.php?id=23860057
+埋堆堆19,http://43.138.170.29:35455/huya/23860057
 
-埋堆堆20,https://live.goodiptv.club/api/huya.php?id=23865072
+埋堆堆20,http://43.138.170.29:35455/huya/23865072
 
-埋堆堆21,https://live.goodiptv.club/api/huya.php?id=23734176
+埋堆堆21,http://43.138.170.29:35455/huya/23734176
 
-埋堆堆22,https://live.goodiptv.club/api/huya.php?id=23728651
+埋堆堆22,http://43.138.170.29:35455/huya/23728651
 
-埋堆堆23,https://live.goodiptv.club/api/huya.php?id=23734246
+埋堆堆23,http://43.138.170.29:35455/huya/23734246
 
-埋堆堆24,https://live.goodiptv.club/api/huya.php?id=23865179
+埋堆堆24,http://43.138.170.29:35455/huya/23865179
 
-埋堆堆25,https://live.goodiptv.club/api/huya.php?id=23734196
+埋堆堆25,http://43.138.170.29:35455/huya/23734196
 
-埋堆堆26,https://live.goodiptv.club/api/huya.php?id=23734211
+埋堆堆26,http://43.138.170.29:35455/huya/23734211
 
-埋堆堆27,https://live.goodiptv.club/api/huya.php?id=23865086
+埋堆堆27,http://43.138.170.29:35455/huya/23865086
 
-埋堆堆28,https://live.goodiptv.club/api/huya.php?id=23863796
+埋堆堆28,http://43.138.170.29:35455/huya/23863796
 
-埋堆堆29,https://live.goodiptv.club/api/huya.php?id=23863822
+埋堆堆29,http://43.138.170.29:35455/huya/23863822
 
-埋堆堆30,https://live.goodiptv.club/api/huya.php?id=23749083
+埋堆堆30,http://43.138.170.29:35455/huya/23749083
 
-埋堆堆31,https://live.goodiptv.club/api/huya.php?id=23734243
+埋堆堆31,http://43.138.170.29:35455/huya/23734243
 
-埋堆堆32,https://live.goodiptv.club/api/huya.php?id=23864480
+埋堆堆32,http://43.138.170.29:35455/huya/23864480
 
-埋堆堆33,https://live.goodiptv.club/api/huya.php?id=23746486
+埋堆堆33,http://43.138.170.29:35455/huya/23746486
 
-埋堆堆34,https://live.goodiptv.club/api/huya.php?id=23860049
+埋堆堆34,http://43.138.170.29:35455/huya/23860049
 
-埋堆堆35,https://live.goodiptv.club/api/huya.php?id=23749074
+埋堆堆35,http://43.138.170.29:35455/huya/23749074
 
-埋堆堆36,https://live.goodiptv.club/api/huya.php?id=23863882
+埋堆堆36,http://43.138.170.29:35455/huya/23863882
 
-埋堆堆37,https://live.goodiptv.club/api/huya.php?id=23863778
+埋堆堆37,http://43.138.170.29:35455/huya/23863778
 
-埋堆堆38,https://live.goodiptv.club/api/huya.php?id=23824164
+埋堆堆38,http://43.138.170.29:35455/huya/23824164
 
-埋堆堆39,https://live.goodiptv.club/api/huya.php?id=23829537
+埋堆堆39,http://43.138.170.29:35455/huya/23829537
 
-埋堆堆40,https://live.goodiptv.club/api/huya.php?id=23863809
+埋堆堆40,http://43.138.170.29:35455/huya/23863809
 
-埋堆堆41,https://live.goodiptv.club/api/huya.php?id=23865096
+埋堆堆41,http://43.138.170.29:35455/huya/23865096
 
-埋堆堆42,https://live.goodiptv.club/api/huya.php?id=23863804
+埋堆堆42,http://43.138.170.29:35455/huya/23863804
 
-埋堆堆43,https://live.goodiptv.club/api/huya.php?id=23728630
+埋堆堆43,http://43.138.170.29:35455/huya/23728630
 
-埋堆堆44,https://live.goodiptv.club/api/huya.php?id=23863895
+埋堆堆44,http://43.138.170.29:35455/huya/23863895
 
-埋堆堆45,https://live.goodiptv.club/api/huya.php?id=23863787
+埋堆堆45,http://43.138.170.29:35455/huya/23863787
 
-埋堆堆46,https://live.goodiptv.club/api/huya.php?id=23728637
+埋堆堆46,http://43.138.170.29:35455/huya/23728637
 
-埋堆堆47,https://live.goodiptv.club/api/huya.php?id=23865142
+埋堆堆47,http://43.138.170.29:35455/huya/23865142
 
-埋堆堆48,https://live.goodiptv.club/api/huya.php?id=23903085
+埋堆堆48,http://43.138.170.29:35455/huya/23903085
 
-埋堆堆49,https://live.goodiptv.club/api/huya.php?id=23903183
+埋堆堆49,http://43.138.170.29:35455/huya/23903183
 
-埋堆堆50,https://live.goodiptv.club/api/huya.php?id=23728647
+埋堆堆50,http://43.138.170.29:35455/huya/23728647
 
-埋堆堆51,https://live.goodiptv.club/api/huya.php?id=23746691
+埋堆堆51,http://43.138.170.29:35455/huya/23746691
 
-埋堆堆52,https://live.goodiptv.club/api/huya.php?id=23829447
+埋堆堆52,http://43.138.170.29:35455/huya/23829447
 
-埋堆堆53,https://live.goodiptv.club/api/huya.php?id=23728693
+埋堆堆53,http://43.138.170.29:35455/huya/23728693
 
-埋堆堆54,https://live.goodiptv.club/api/huya.php?id=23903130
+埋堆堆54,http://43.138.170.29:35455/huya/23903130
 
-埋堆堆55,https://live.goodiptv.club/api/huya.php?id=23734223
+埋堆堆55,http://43.138.170.29:35455/huya/23734223
 
-埋堆堆56,https://live.goodiptv.club/api/huya.php?id=23734169
+埋堆堆56,http://43.138.170.29:35455/huya/23734169
 
-埋堆堆57,https://live.goodiptv.club/api/huya.php?id=23865124
+埋堆堆57,http://43.138.170.29:35455/huya/23865124
 
-埋堆堆58,https://live.goodiptv.club/api/huya.php?id=23865186
+埋堆堆58,http://43.138.170.29:35455/huya/23865186
 
-埋堆堆59,https://live.goodiptv.club/api/huya.php?id=23902225
+埋堆堆59,http://43.138.170.29:35455/huya/23902225
 
-埋堆堆60,https://live.goodiptv.club/api/huya.php?id=23903164
+埋堆堆60,http://43.138.170.29:35455/huya/23903164
 
-埋堆堆61,https://live.goodiptv.club/api/huya.php?id=2372867
+埋堆堆61,http://43.138.170.29:35455/huya/2372867
 
 
 纪录专区,#genre#
