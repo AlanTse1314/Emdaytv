@@ -1,25 +1,15 @@
 {
   "sites": [
     {
-      "key": "js豆瓣",
+      "key": "豆豆",
       "name": "微信号:『Emday』提供",
       "type": 3,
-      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
+      "api": "csp_DouDou",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/douban.js"
-    },
-    {
-      "key": "js豆瓣备用",
-      "name": "豆瓣备用",
-      "type": 3,
-      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/doubanbf.js",
-      "searchable": 1,
-      "quickSearch": 1,
       "filterable": 0
     },
-    
+     
     {
       "key": "新片热播",
       "name": "新片热播",
@@ -1459,5 +1449,5 @@
   ],
   "wallpaper": "https://tool.weetai.cn/api",
   "warningText": "接口免费整理维护，请勿付费购买",
-  "spider": "https://jihulab.com/iduoduo/xduo/-/raw/main/main.jar;md5;D42CC8D191481FC9BEEB1BFF4BC747CB"
+  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;ea2690fc66083afe1431071968e60395"
 }
