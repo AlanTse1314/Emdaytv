@@ -128,6 +128,8 @@ CCTV17-农业农村,http://[2409:8087:1e03:21::2]:6060/cms001/ch0000009099000000
 
 CCTV4K-超高清,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
 CCTV8K-超高清,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+CCTV-4欧洲,http://www.erbao1981.top:8188/udp/239.76.246.95:1234
+CCTV-4美洲,http://www.erbao1981.top:8188/udp/239.76.246.96:1234
 CCTV-兵器科技,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
 CCTV-怀旧剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
 CCTV-世界地理,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
@@ -671,7 +673,6 @@ Bestv赛事5,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001153/in
 华数4K影视,http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 华数4K影视,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 爱上4K,http://zhaomeng.ddns.net:4000/udp/239.93.0.97:5140
-绚影4K,http://zhaomeng.ddns.net:4000/udp/239.93.42.33:5140
 
 北京IPTV 4K超清,http://ry.soff.cn:4022/rtp/239.3.1.249:8001
 北京IPTV 4K超清,http://nas.jdshipin.com:8801/iptv.php?id=bj4k
@@ -686,13 +687,15 @@ Bestv赛事5,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001153/in
 芒果TV 4K,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
 芒果TV 4K,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
 
-四川乐享4K,http://nas.jdshipin.com:8801/iptv.php?id=lx4k
 
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 苏州4K,rtmp://liveshowbak2.kan0512.com/norecord/csztv4k_4k
 苏州4K,http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.flv
 苏州4K,http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
 苏州4K,http://1972762459.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=BIkAALgYonIlwd4W&secondToken=secondToken%3AcTyp88QdsudhnnmwHbpfH9Dg7k8&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1
+IPTV剧场4K-4K,http://www.erbao1981.top:8188/udp/239.76.245.35:1234
+电影测试-4K,http://www.erbao1981.top:8188/udp/239.76.247.3:1234
+百视通台-4K,http://www.erbao1981.top:8188/udp/239.76.247.4:1234
 
 
 北京纪实8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
@@ -700,50 +703,11 @@ Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8#mitv://g
 CCTV4K-超高清,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
 CCTV8K-超高清,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 CCTV16-4K,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw3797101779_1427264412/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8?icpid=4&RTS=1674379617&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
-Bloomberg TV UHD,https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
-Bloomberg TV UHD,https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
-Bloomberg TV UHD,https://bloomberg-bloombergtv-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-Bloomberg TV UHD,https://0984ed0046994029aafaa07692005474.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Bloomberg/playlist.m3u8
-
-Clarity 4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-Clarity 4K,https://d3thiix3tzne5u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClarityTV4K2-prod/playlist.m3u8
-Clarity 4K,https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
-Clarity 4K,https://d83tn4bh2lria.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-af0ty8yffo1e1-prod/amgfireplace4k/playlist.m3u8
-Clarity 4K,http://api2.52tb.xyz/info?id=162&token=20230305eptdaz
-Clarity 4K,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxBCHdoE4ERuw-ffszjQ-bDk/ts
-
-Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-Fashion 4K,http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
-Fashion 4K,http://api2.52tb.xyz/info?id=161&token=20230305eptdaz
-
-Home 4K,http://de1cdn.plusx.tv:8880/316/mono.m3u8?token=a6a4830189b90926652222
-
-Insight UHD,http://de1cdn.plusx.tv:8880/InsightUHD11/mono.m3u8?token=a6a4830189b90926652222
-
-Heritage 4K,http://de1cdn.plusx.tv:8880/Heritage/mono.m3u8?token=a6a4830189b90926652222
-
-Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-Love Nature 4K,http://api2.52tb.xyz/info?id=163&token=20230305eptdaz
-
-Loupe 4K,http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
-
-Museum 4K,http://de1cdn.plusx.tv:8880/Museum/mono.m3u8?token=a6a4830189b90926652222
-
-NASA 4K,http://de1cdn.plusx.tv:8880/NASA/mono.m3u8?token=a6a4830189b90926652222
-NASA 4K,https://endpnt.com/hls/nasa4k60/playlist.m3u8
-NASA 4K,http://endpnt.com:8000/nasa-uhd.ts
-NASA 4K,https://endpnt.com/hls/nasa4k/playlist.m3u8
-NASA 4K,http://endpnt.com:8000/nasa-uhd-30p.ts
-
-TravelXP 4K,http://de1cdn.plusx.tv:8880/Travelxp/mono.m3u8?token=a6a4830189b90926652222
-
-Ultra Nature 4K,http://185.236.229.31:9981/play/a01d
-
-VTC13 4K,http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
 
 
 湖南电信,#genre#
+
+
 湖南卫视,http://www.erbao1981.top:8188/udp/239.76.246.100:1234
 湖南卫视,http://www.erbao1981.top:8188/udp/239.76.245.115:1234
 湖南经视,http://www.erbao1981.top:8188/udp/239.76.245.116:1234
