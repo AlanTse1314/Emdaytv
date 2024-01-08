@@ -431,7 +431,7 @@ module.exports = {
     author: '猫头猫',
     defaultSearchType: "album",
     cacheControl: "no-cache",
-    srcUrl: "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/bilibili/index.js",
+    srcUrl: "https://agit.ai/EmdayLive/Emdaytv/raw/branch/master/musicfree/bilibili/index.js",
     primaryKey: ["id", "aid", "bvid", "cid"],
     hints: {
         importMusicSheet: [
