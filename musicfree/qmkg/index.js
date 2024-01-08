@@ -27,7 +27,7 @@ module.exports = {
     platform: "全民K歌",
     version: "0.1.1",
     author: '猫头猫',
-    srcUrl: "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/qmkg/index.js",
+    srcUrl: "https://agit.ai/EmdayLive/Emdaytv/raw/branch/master/musicfree/qmkg/index.js",
     cacheControl: "no-store",
     async getMediaSource(musicItem) {
         if (musicItem.shareid) {
