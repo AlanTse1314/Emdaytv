@@ -141,7 +141,7 @@ module.exports = {
     platform: "快手",
     version: "0.0.1",
     author: '猫头猫',
-    srcUrl: "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/kuaishou/index.js",
+    srcUrl: "https://agit.ai/EmdayLive/Emdaytv/raw/branch/master/musicfree/kuaishou/index.js",
     cacheControl: "no-cache",
     supportedSearchType: ["music"],
     async search(query, page, type) {
