@@ -79,7 +79,7 @@ module.exports = {
     ],
     version: "0.0.0",
     supportedSearchType: ["music"],
-    srcUrl: "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/webdav/index.js",
+    srcUrl: "https://agit.ai/EmdayLive/Emdaytv/raw/branch/master/musicfree/weddav/index.js",
     cacheControl: "no-cache",
     search(query, page, type) {
         if (type === "music") {
