@@ -3,33 +3,7 @@
 软件免费，请勿商用,http://tv.nxog.top/m/404/xjj.php
 
 央视频道,#genre#
-CCTV1,http: //www.biaozhun114.com/dl/dl666/ysp.php?cctv1
-CCTV2,http: //www.biaozhun114.com/dl/dl666/ysp.php?cctv2
-CCTV3,http: //www.biaozhun114.com/dl/dl666/ysp.php?cctv3
-CCTV4,http: //www.biaozhun114.com/dl/dl666/ysp.php?cctv4
-CCTV5,http: //www.biaozhun114.com/dl/dl666/ysp.php?cctv5
-CCTV5+,http: //www.biaozhun114.com/dl/dl666/ysp.php?cctv5p
-CCTV6,http: //www.biaozhun114.com/dl/dl666/ysp.php?cctv6
-CCTV7,http: //www.biaozhun114.com/dl/dl666/ysp.php?cctv7
-CCTV8,http: //www.biaozhun114.com/dl/dl666/ysp.php?cctv8
-CCTV9,http: //www.biaozhun114.com/dl/dl666/ysp.php?cctv9
-CCTV10,http: //www.biaozhun114.com/dl/dl666/ysp.php?cctv10
-CCTV11,http: //www.biaozhun114.com/dl/dl666/ysp.php?cctv11
-CCTV12,http: //www.biaozhun114.com/dl/dl666/ysp.php?cctv12
-CCTV13,http: //www.biaozhun114.com/dl/dl666/ysp.php?cctv13
-CCTV14,http: //www.biaozhun114.com/dl/dl666/ysp.php?cctv14
-CCTV15,http: //www.biaozhun114.com/dl/dl666/ysp.php?cctv15
-CCTV16,http: //www.biaozhun114.com/dl/dl666/ysp.php?cctv16
-CCTV16,http: //www.biaozhun114.com/dl/dl666/ysp.php?cctv164k
-CCTV17,http: //www.biaozhun114.com/dl/dl666/ysp.php?cctv17
-cctv4k,http: //www.biaozhun114.com/dl/dl666/ysp.php?cctv4k
-cctv8k,http: //www.biaozhun114.com/dl/dl666/ysp.php?cctv8k
-CGTN,http: //www.biaozhun114.com/dl/dl666/ysp.php?cgtn
-CGTN纪录,http: //www.biaozhun114.com/dl/dl666/ysp.php?cgtnjl
-CGTN西语,http: //www.biaozhun114.com/dl/dl666/ysp.php?cgtne
-CGTN法语,http: //www.biaozhun114.com/dl/dl666/ysp.php?cgtnf
-CGTN阿语,http: //www.biaozhun114.com/dl/dl666/ysp.php?cgtna
-CGTN俄语,http: //www.biaozhun114.com/dl/dl666/ysp.php?cgtn
+
 CCTV1,http://sx.liuyun.wang:88/live/ysp.php?id=cctv1
 CCTV2,http://sx.liuyun.wang:88/live/ysp.php?id=cctv2
 CCTV3,http://sx.liuyun.wang:88/live/ysp.php?id=cctv3
@@ -70,44 +44,10 @@ CGTN法语,http://sx.liuyun.wang:88/live/ysp.php?id=cgtnf
 CGTN阿语,http://sx.liuyun.wang:88/live/ysp.php?id=cgtna
 CGTN俄语,http://sx.liuyun.wang:88/live/ysp.php?id=cgtnr
 
-CCTV兵器科技,http: //www.biaozhun114.com/dl/dl666/ysp.php?bqkj
-CCTV第一剧场,http: //www.biaozhun114.com/dl/dl666/ysp.php?dyjc
-CCTV怀旧剧场,http: //www.biaozhun114.com/dl/dl666/ysp.php?hjjc
-CCTV风云剧场,http: //www.biaozhun114.com/dl/dl666/ysp.php?fyjc
-CCTV风云音乐,http: //www.biaozhun114.com/dl/dl666/ysp.php?fyyy
-CCTV风云足球,http: //www.biaozhun114.com/dl/dl666/ysp.php?fyzq
-CCTV电视指南,http: //www.biaozhun114.com/dl/dl666/ysp.php?dszn
-CCTV女性时尚,http: //www.biaozhun114.com/dl/dl666/ysp.php?nxss
-CCTV央视文化,http: //www.biaozhun114.com/dl/dl666/ysp.php?whjp
-CCTV世界地理,http: //www.biaozhun114.com/dl/dl666/ysp.php?sjdl
-CCTV央视台球,http: //www.biaozhun114.com/dl/dl666/ysp.php?ystq
-CCTV卫生健康,http: //www.biaozhun114.com/dl/dl666/ysp.php?wsjk
-CCTV高尔夫网球,http: //www.biaozhun114.com/dl/dl666/ysp.php?gefwq
+
 
 卫视频道,#genre#
-四川卫视,http: //www.biaozhun114.com/dl/dl666/ysp.php?scws
-北京卫视,http: //www.biaozhun114.com/dl/dl666/ysp.php?bjws
-重庆卫视,http: //www.biaozhun114.com/dl/dl666/ysp.php?cqws
-东方卫视,http: //www.biaozhun114.com/dl/dl666/ysp.php?dfws
-天津卫视,http: //www.biaozhun114.com/dl/dl666/ysp.php?tjws
-辽宁卫视,http: //www.biaozhun114.com/dl/dl666/ysp.php?lnws
-山东卫视,http: //www.biaozhun114.com/dl/dl666/ysp.php?sdws
-安徽卫视,http: //www.biaozhun114.com/dl/dl666/ysp.php?ahws
-湖北卫视,http: //www.biaozhun114.com/dl/dl666/ysp.php?fbws
-湖南卫视,http: //www.biaozhun114.com/dl/dl666/ysp.php?fnws
-江西卫视,http: //www.biaozhun114.com/dl/dl666/ysp.php?jxws
-江苏卫视,http: //www.biaozhun114.com/dl/dl666/ysp.php?jsws
-浙江卫视,http: //www.biaozhun114.com/dl/dl666/ysp.php?zjws
-东南卫视,http: //www.biaozhun114.com/dl/dl666/ysp.php?dnws
-广东卫视,http: //www.biaozhun114.com/dl/dl666/ysp.php?gdws
-广西卫视,http: //www.biaozhun114.com/dl/dl666/ysp.php?gxws
-深圳卫视,http: //www.biaozhun114.com/dl/dl666/ysp.php?szws
-贵州卫视,http: //www.biaozhun114.com/dl/dl666/ysp.php?gzws
-新疆卫视,http: //www.biaozhun114.com/dl/dl666/ysp.php?xjws
-河北卫视,http: //www.biaozhun114.com/dl/dl666/ysp.php?hbws
-河南卫视,http: //www.biaozhun114.com/dl/dl666/ysp.php?hnws
-海南卫视,http: //www.biaozhun114.com/dl/dl666/ysp.php?hinws
-黑龙江卫视,http: //www.biaozhun114.com/dl/dl666/ysp.php?hljws
+
 
 
 北京卫视,http://sx.liuyun.wang:88/live/ysp.php?id=bjws
