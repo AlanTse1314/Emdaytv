@@ -333,100 +333,676 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
 湖南本地,#genre#
-湖南卫视,http://www.erbao1981.top:8188/udp/239.76.246.100:1234
-湖南卫视,http://www.erbao1981.top:8188/udp/239.76.245.115:1234
-湖南经视,http://www.erbao1981.top:8188/udp/239.76.245.116:1234
-湖南都市,http://www.erbao1981.top:8188/udp/239.76.245.117:1234
-湖南影视,http://www.erbao1981.top:8188/udp/239.76.245.118:1234
-湖南电影,http://www.erbao1981.top:8188/udp/239.76.245.119:1234
-金鹰卡通,http://www.erbao1981.top:8188/udp/239.76.245.120:1234
-湖南娱乐,http://www.erbao1981.top:8188/udp/239.76.245.121:1234
-金鹰纪实,http://www.erbao1981.top:8188/udp/239.76.245.122:1234
-湖南爱晚,http://www.erbao1981.top:8188/udp/239.76.245.123:1234
-湖南国际,http://www.erbao1981.top:8188/udp/239.76.245.124:1234
-湖南卫视,http://www.erbao1981.top:8188/udp/239.76.246.101:1234
-湖南经视,http://www.erbao1981.top:8188/udp/239.76.246.103:1234
-湖南都市,http://www.erbao1981.top:8188/udp/239.76.246.104:1234
-湖南娱乐,http://www.erbao1981.top:8188/udp/239.76.246.105:1234
-湖南影视,http://www.erbao1981.top:8188/udp/239.76.246.108:1234
-湖南电影,http://www.erbao1981.top:8188/udp/239.76.246.106:1234
-湖南娱乐,http://www.erbao1981.top:8188/udp/239.76.246.105:1234
-湖南爱晚,http://www.erbao1981.top:8188/udp/239.76.246.109:1234
-湖南国际,http://www.erbao1981.top:8188/udp/239.76.245.240:1234
-湖南国际,http://www.erbao1981.top:8188/udp/239.76.246.102:1234
-湖南教育,http://www.erbao1981.top:8188/udp/239.76.245.233:1234
-长沙女姓,http://www.erbao1981.top:8188/udp/239.76.245.23:1234
-长沙新闻,http://www.erbao1981.top:8188/udp/239.76.246.121:1234
-长沙政法,http://www.erbao1981.top:8188/udp/239.76.246.122:1234
-长沙影视,http://www.erbao1981.top:8188/udp/239.76.245.204:1234
-长沙县台,http://www.erbao1981.top:8188/udp/239.76.248.33:1234
-宁乡综合,http://www.erbao1981.top:8188/udp/239.76.248.57:1234
-郴州综合,http://www.erbao1981.top:8188/udp/239.76.246.75:1234
-湘西综合,http://www.erbao1981.top:8188/udp/239.76.245.208:1234
-湘西公共,http://www.erbao1981.top:8188/udp/239.76.245.209:1234
-湘西公共,http://www.erbao1981.top:8188/udp/239.76.245.210:1234
-浏阳市台,http://www.erbao1981.top:8188/udp/239.76.248.6:1234
-常德综合,http://www.erbao1981.top:8188/udp/239.76.248.10:1234
-常德公共,http://www.erbao1981.top:8188/udp/239.76.248.11:1234
-怀化综合,http://www.erbao1981.top:8188/udp/239.76.248.12:1234
-衡阳综合,http://www.erbao1981.top:8188/udp/239.76.248.13:1234
-衡阳公共,http://www.erbao1981.top:8188/udp/239.76.248.14:1234
-娄底综合,http://www.erbao1981.top:8188/udp/239.76.248.18:1234
-娄底公共,http://www.erbao1981.top:8188/udp/239.76.248.19:1234
-娄底市台,http://www.erbao1981.top:8188/udp/239.76.248.20:1234
-邵阳综合,http://www.erbao1981.top:8188/udp/239.76.248.21:1234
-邵阳公共,http://www.erbao1981.top:8188/udp/239.76.248.22:1234
-永州综合,http://www.erbao1981.top:8188/udp/239.76.248.23:1234
-溆浦综合,http://www.erbao1981.top:8188/udp/239.76.248.25:1234
-衡阳县台,http://www.erbao1981.top:8188/udp/239.76.248.26:1234
-道县综合,http://www.erbao1981.top:8188/udp/239.76.248.28:1234
-武冈综合,http://www.erbao1981.top:8188/udp/239.76.248.29:1234
-临澧综合,http://www.erbao1981.top:8188/udp/239.76.248.32:1234
-桂东融媒,http://www.erbao1981.top:8188/udp/239.76.246.231:1234
-津市电视台,http://www.erbao1981.top:8188/udp/239.76.248.30:1234
-新化电视台,http://www.erbao1981.top:8188/udp/239.76.248.31:1234
-张家界综合,http://www.erbao1981.top:8188/udp/239.76.245.234:1234
-张家界公共,http://www.erbao1981.top:8188/udp/239.76.245.235:1234
-快乐购物,http://www.erbao1981.top:8188/udp/239.76.245.125:1234
-快乐垂钓,http://www.erbao1981.top:8188/udp/239.76.245.127:1234
-九宫格屏,http://www.erbao1981.top:8188/udp/239.76.245.131:1234
-金色学堂,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001194/index.m3u8
-纪实人文,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001019/index.m3u8
-生活时尚,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001199/index.m3u8
-乐游频道,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001200/index.m3u8
-都市剧场,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001203/index.m3u8
-欢笑剧场,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001193/index.m3u8
-卡酷少儿,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001245/index.m3u8
-金鹰纪实,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001230/index.m3u8
-金鹰卡通,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001460/index.m3u8
-茶友频道,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001234/index.m3u8
-快乐垂钓,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001235/index.m3u8
-嘉佳卡通,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001227/index.m3u8
-动漫秀场,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001196/index.m3u8
-哈哈炫动,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001232/index.m3u8
-游戏风云,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001192/index.m3u8
-家庭理财,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001278/index.m3u8
-财富天下,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001219/index.m3u8
+湖南卫视,http://www.yao87.com:4022/udp/239.76.253.101:9000
+湖南卫视,http://www.yao87.com:4022/udp/239.76.253.100:9000
+湖南卫视,http://www.yao87.com:4022/udp/239.76.252.115:9000
+湖南卫视,http://www.yao87.com:4022/udp/239.76.251.85:9000
+湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
+湖南卫视,http://www.yao87.com:4022/udp/239.76.246.100:1234
+湖南卫视,http://www.yao87.com:4022/udp/239.76.245.115:1234
 
-上海新闻,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8
-上海都市,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001015/index.m3u8
-上海ICS,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8
-七彩戏剧,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001308/index.m3u8
-上海教育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001268/index.m3u8
-五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
-东方影视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8
-东方财经,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001318/index.m3u8
-法治天地,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001195/index.m3u8
-第一财经,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001017/index.m3u8
-东方购物1,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001040/index.m3u8
-东方购物2,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001039/index.m3u8
-央广购物,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001420/index.m3u8
-优购物,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001440/index.m3u8
-好享购物,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001132/index.m3u8
-聚鲨精选,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001138/index.m3u8
-家家购物,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001163/index.m3u8
-家有购物,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001244/index.m3u8
-快乐购,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001368/index.m3u8
+湖南经视,http://www.yao87.com:4022/udp/239.76.253.103:9000
+湖南经视,http://www.yao87.com:4022/udp/239.76.252.116:9000
+湖南经视,http://www.yao87.com:4022/udp/239.76.251.86:9000
+湖南经视,http://www.yao87.com:4022/udp/239.76.246.103:1234
+湖南经视,http://www.yao87.com:4022/udp/239.76.245.116:1234
+湖南教育,http://www.yao87.com:4022/udp/239.76.252.233:9000
+湖南教育,http://www.yao87.com:4022/udp/239.76.245.233:1234
+湖南国际,http://www.yao87.com:4022/udp/239.76.253.102:9000
+湖南国际,http://www.yao87.com:4022/udp/239.76.252.240:9000
+湖南国际,http://www.yao87.com:4022/udp/239.76.252.124:9000
+湖南国际,http://www.yao87.com:4022/udp/239.76.246.102:1234
+湖南国际,http://www.yao87.com:4022/udp/239.76.245.124:1234
+湖南都市,http://www.yao87.com:4022/udp/239.76.253.104:9000
+湖南都市,http://www.yao87.com:4022/udp/239.76.252.117:9000
+湖南都市,http://www.yao87.com:4022/udp/239.76.245.117:1234
+湖南电影,http://www.yao87.com:4022/udp/239.76.253.106:9000
+湖南电影,http://www.yao87.com:4022/udp/239.76.252.119:9000
+湖南电影,http://www.yao87.com:4022/udp/239.76.246.106:1234
+湖南电影,http://www.yao87.com:4022/udp/239.76.245.119:1234
+湖南电视剧,http://www.yao87.com:4022/udp/239.76.253.108:9000
+湖南电视剧,http://www.yao87.com:4022/udp/239.76.252.118:9000
+湖南电视剧,http://www.yao87.com:4022/udp/239.76.246.108:1234
+湖南电视剧,http://www.yao87.com:4022/udp/239.76.245.118:1234
+湖南爱晚,http://www.yao87.com:4022/udp/239.76.253.109:9000
+湖南爱晚,http://www.yao87.com:4022/udp/239.76.252.123:9000
+湖南爱晚,http://www.yao87.com:4022/udp/239.76.246.109:1234
+湖南爱晚,http://www.yao87.com:4022/udp/239.76.245.123:1234
+金鹰卡通,http://www.yao87.com:4022/udp/239.76.253.107:9000
+金鹰卡通,http://www.yao87.com:4022/udp/239.76.252.120:9000
+金鹰卡通,http://www.yao87.com:4022/udp/239.76.246.107:1234
+金鹰卡通,http://www.yao87.com:4022/udp/239.76.245.120:1234
+金鹰纪实,http://www.yao87.com:4022/udp/239.76.253.110:9000
+金鹰纪实,http://www.yao87.com:4022/udp/239.76.252.122:9000
+金鹰纪实,http://www.yao87.com:4022/udp/239.76.246.110:1234
+金鹰纪实,http://www.yao87.com:4022/udp/239.76.245.122:1234
+长沙政法,http://www.yao87.com:4022/udp/239.76.253.122:9000
+长沙政法,http://www.yao87.com:4022/udp/239.76.246.122:1234
+长沙影视,http://www.yao87.com:4022/udp/239.76.252.204:9000
+长沙影视,http://www.yao87.com:4022/udp/239.76.245.204:1234
+长沙新闻,http://www.yao87.com:4022/udp/239.76.253.121:9000
+长沙新闻,http://www.yao87.com:4022/udp/239.76.246.121:1234
+长沙女性,http://www.yao87.com:4022/udp/239.76.252.23:9000
+长沙女性,http://www.yao87.com:4022/udp/239.76.251.146:9000
+长沙女性,http://www.yao87.com:4022/udp/239.76.245.23:1234
+长沙购物,http://www.yao87.com:4022/udp/239.76.253.245:9000
+长沙购物,http://www.yao87.com:4022/udp/239.76.246.245:1234
+张家界新闻,http://www.yao87.com:4022/udp/239.76.255.21:9000
+张家界新闻,http://www.yao87.com:4022/udp/239.76.252.234:9000
+张家界新闻,http://www.yao87.com:4022/udp/239.76.245.234:1234
+张家界公共,http://www.yao87.com:4022/udp/239.76.255.22:9000
+张家界公共,http://www.yao87.com:4022/udp/239.76.252.235:9000
+张家界公共,http://www.yao87.com:4022/udp/239.76.245.235:1234
+永州新闻,http://www.yao87.com:4022/udp/239.76.255.23:9000
+永州新闻,http://www.yao87.com:4022/udp/239.76.248.23:1234
+溆浦,http://www.yao87.com:4022/udp/239.76.255.25:9000
+溆浦,http://www.yao87.com:4022/udp/239.76.248.25:1234
+新化,http://www.yao87.com:4022/udp/239.76.255.31:9000
+新化,http://www.yao87.com:4022/udp/239.76.248.31:1234
+湘西新闻,http://www.yao87.com:4022/udp/239.76.248.21:1234
+湘西新闻,http://www.yao87.com:4022/udp/239.76.245.208:1234
+湘西公共,http://www.yao87.com:4022/udp/239.76.252.210:9000
+湘西公共,http://www.yao87.com:4022/udp/239.76.248.22:1234
+湘西公共,http://www.yao87.com:4022/udp/239.76.245.209:1234
+娄底综合,http://www.yao87.com:4022/udp/239.76.255.18:9000
+娄底综合,http://www.yao87.com:4022/udp/239.76.248.18:1234
+娄底公共,http://www.yao87.com:4022/udp/239.76.255.19:9000
+娄底公共,http://www.yao87.com:4022/udp/239.76.248.19:1234
+浏阳,http://www.yao87.com:4022/udp/239.76.255.6:9000
+浏阳,http://www.yao87.com:4022/udp/239.76.248.6:1234
+怀化,http://www.yao87.com:4022/udp/239.76.255.12:9000
+怀化,http://www.yao87.com:4022/udp/239.76.248.12:1234
+津市,http://www.yao87.com:4022/udp/239.76.255.30:9000
+津市,http://www.yao87.com:4022/udp/239.76.248.30:1234
+衡阳新闻,http://www.yao87.com:4022/udp/239.76.248.13:1234
+衡阳公共,http://www.yao87.com:4022/udp/239.76.255.14:9000
+衡阳公共,http://www.yao87.com:4022/udp/239.76.248.14:1234
+衡阳,http://www.yao87.com:4022/udp/239.76.255.26:9000
+衡阳,http://www.yao87.com:4022/udp/239.76.248.26:1234
+道县,http://www.yao87.com:4022/udp/239.76.255.28:9000
+道县,http://www.yao87.com:4022/udp/239.76.255.13:9000
+道县,http://www.yao87.com:4022/udp/239.76.248.28:1234
+郴州综合,http://www.yao87.com:4022/udp/239.76.253.75:9000
+郴州综合,http://www.yao87.com:4022/udp/239.76.246.75:1234
+常德新闻,http://www.yao87.com:4022/udp/239.76.255.10:9000
+常德新闻,http://www.yao87.com:4022/udp/239.76.248.10:1234
+常德公共,http://www.yao87.com:4022/udp/239.76.255.11:9000
+常德公共,http://www.yao87.com:4022/udp/239.76.248.11:1234
+茶频道,http://www.yao87.com:4022/udp/239.76.252.239:9000
+茶频道,http://www.yao87.com:4022/udp/239.76.245.239:1234
+芒果汽车,http://www.yao87.com:4022/udp/239.76.253.217:9000
+芒果汽车,http://www.yao87.com:4022/udp/239.76.253.123:9000
+芒果汽车,http://www.yao87.com:4022/udp/239.76.246.217:1234
+芒果汽车,http://www.yao87.com:4022/udp/239.76.246.123:1234
+芒果乐搜,http://www.yao87.com:4022/udp/239.76.252.200:9000
+芒果乐活,http://www.yao87.com:4022/udp/239.76.252.201:9000
+芒果快乐购,http://www.yao87.com:4022/udp/239.76.253.218:9000
+芒果快乐购,http://www.yao87.com:4022/udp/239.76.253.124:9000
+芒果精品,http://www.yao87.com:4022/udp/239.76.246.218:1234
+芒果精品,http://www.yao87.com:4022/udp/239.76.246.124:1234
+
+IPTV综艺,http://www.yao87.com:4022/udp/239.76.254.111:9000
+IPTV综艺,http://www.yao87.com:4022/udp/239.76.247.111:1234
+IPTV幼教动画,http://www.yao87.com:4022/udp/239.76.247.210:1234
+IPTV戏剧,http://www.yao87.com:4022/udp/239.76.253.40:9000
+IPTV戏剧,http://www.yao87.com:4022/udp/239.76.246.40:1234
+IPTV甜宠,http://www.yao87.com:4022/udp/239.76.254.109:9000
+IPTV甜宠,http://www.yao87.com:4022/udp/239.76.247.109:1234
+IPTV芒果热剧,http://www.yao87.com:4022/udp/239.76.253.222:9000
+IPTV芒果热剧,http://www.yao87.com:4022/udp/239.76.246.222:1234
+IPTV芒果热播,http://www.yao87.com:4022/udp/239.76.252.215:9000
+IPTV芒果热播,http://www.yao87.com:4022/udp/239.76.252.194:9000
+IPTV芒果热播,http://www.yao87.com:4022/udp/239.76.245.215:1234
+IPTV芒果热播,http://www.yao87.com:4022/udp/239.76.245.194:1234
+IPTV芒果乐搜,http://www.yao87.com:4022/udp/239.76.245.200:1234
+IPTV芒果乐活,http://www.yao87.com:4022/udp/239.76.245.201:1234
+IPTV芒果互娱,http://www.yao87.com:4022/udp/239.76.253.126:9000
+IPTV芒果好看,http://www.yao87.com:4022/udp/239.76.253.219:9000
+IPTV芒果好看,http://www.yao87.com:4022/udp/239.76.246.219:1234
+IPTV抗战剧场,http://www.yao87.com:4022/udp/239.76.245.218:1234
+IPTV精选热播,http://www.yao87.com:4022/udp/239.76.254.110:9000
+IPTV精选热播,http://www.yao87.com:4022/udp/239.76.247.110:1234
+IPTV经典剧场,http://www.yao87.com:4022/udp/239.76.245.221:1234
+IPTV健康,http://www.yao87.com:4022/udp/239.76.253.42:9000
+IPTV健康,http://www.yao87.com:4022/udp/239.76.246.42:1234
+IPTV家庭剧场,http://www.yao87.com:4022/udp/239.76.252.220:9000
+IPTV家庭剧场,http://www.yao87.com:4022/udp/239.76.245.220:1234
+IPTV故事,http://www.yao87.com:4022/udp/239.76.253.41:9000
+IPTV故事,http://www.yao87.com:4022/udp/239.76.246.41:1234
+IPTV古装剧场,http://www.yao87.com:4022/udp/239.76.252.219:9000
+IPTV古装剧场,http://www.yao87.com:4022/udp/239.76.245.219:1234
+IPTV搞笑动画,http://www.yao87.com:4022/udp/239.76.247.207:1234
+IPTV高清院线,http://www.yao87.com:4022/udp/239.76.252.217:9000
+IPTV高清院线,http://www.yao87.com:4022/udp/239.76.245.217:1234
+IPTV电竞,http://www.yao87.com:4022/udp/239.76.252.214:9000
+IPTV电竞,http://www.yao87.com:4022/udp/239.76.252.136:9000
+IPTV电竞,http://www.yao87.com:4022/udp/239.76.245.214:1234
+IPTV电竞,http://www.yao87.com:4022/udp/239.76.245.136:1234
+IPTV4K,http://www.yao87.com:4022/udp/239.76.252.35:9000
+IPTV4K,http://www.yao87.com:4022/udp/239.76.245.35:1234
+LDETV,http://www.yao87.com:4022/udp/239.76.255.20:9000
+LDETV,http://www.yao87.com:4022/udp/239.76.248.20:1234
+
+港台测试,#genre#
+凤凰卫视,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/phoenixtv_hd/playlist.m3u8
+凤凰资讯,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/phoenixinfo_hd/playlist.m3u8
+凤凰香港,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/hkphoenix_twn/playlist.m3u8
+翡翠台,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/jade_twn/playlist.m3u8#http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/jade_mike/playlist.m3u8
+J2,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/j2_twn/playlist.m3u8
+J2 备用,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/j2_hkdavid/playlist.m3u8
+明珠台,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/pearl_twn/playlist.m3u8#http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/pearl_hkdavid/playlist.m3u8
+无线新闻台,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/inews_twn/playlist.m3u8
+无线财经资讯台,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/tvbcaijing_twn/playlist.m3u8
+TVB 星河,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/tvbxinhe_twn/playlist.m3u8
+RHK 31,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/rhk31_twn/playlist.m3u8
+RHK 32,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/rhk32_twn/playlist.m3u8
+Viu6,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/viusix_twn/playlist.m3u8
+Viu TV 69,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/viutv69_hkdavid/playlist.m3u8
+VIUTV1,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/viu1_twn/playlist.m3u8
+
+
+台视 TTV HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/ttv_taiwan/playlist.m3u8
+台视新闻台,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/ttvnews_twn/playlist.m3u8
+台视综合台,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/ttvzhonghe_twn/playlist.m3u8
+中视 HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/zhongshihd_twn/playlist.m3u8
+中视新闻台,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/zhongshinews_twn/playlist.m3u8
+民视 HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/ftvhd_taiwan/playlist.m3u8
+民视新闻台 FTV News,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/ftvnew_taiwan/playlist.m3u8
+民视台湾台,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8
+华视 CTS HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/ctshd_twn/playlist.m3u8
+公视 CTV,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/ctv_taiwan/playlist.m3u8
+八大第一 GTV First,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/badafirst/playlist.m3u8
+八大综合 GTV Metro,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/badazhonghe/playlist.m3u8
+八大戏剧 GTV Drama,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/badadrama/playlist.m3u8
+八大娱乐 GTV Entertainment,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/badaentertain/playlist.m3u8
+HBO_HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/hbohd_twn/playlist.m3u8
+HBO_HITS,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/hbohits_twn/playlist.m3u8
+Hollywood Movies,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8
+三立台湾 Sanli Taiwan,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/sanlitaiwan/playlist.m3u8
+三立戏剧台,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/sanlixiju_twn/playlist.m3u8
+三立综合 Sanli Metro,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/sanlizhonghe/playlist.m3u8
+三立都会台,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/sanlidouhui/playlist.m3u8
+TVBS News 新闻台,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/tvbs_n/playlist.m3u8
+TVBS 欢乐台 （备份）,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8
+TVBS HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/tvbs/playlist.m3u8
+中天新闻 HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/ctinews/playlist.m3u8
+中天娱乐 CTI Entertaiment,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/ctient/playlist.m3u8
+中天综合 CTI Metro,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/ctizhonghe/playlist.m3u8
+中天亚洲台,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/ctiasia_twn/playlist.m3u8
+东森新闻 ETTV News,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/ettvnews/playlist.m3u8
+东森综合 ETTV Metro,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/ettvzhonghe/playlist.m3u8
+东森戏剧 ETTV Drama,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/ettvdrama/playlist.m3u8
+东森超视,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/ettvsuper/playlist.m3u8
+东森财经新闻 ETTV Business,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/ettvcaijing_twn/playlist.m3u8
+寰宇财经,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/huanyutaiwan_twn/playlist.m3u8
+寰宇新闻台,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/huanyuxinwen_twn/playlist.m3u8
+大爱1台,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/daai_twn/playlist.m3u8
+非凡新闻台,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/feifannews_twn/playlist.m3u8
+龙华戏剧 Lunghua Drama,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/lunghuaxiju_twn/playlist.m3u8
+龙华戏剧台,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/lunghuaxiju_twn/playlist.m3u8
+龙华经典台,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/lunghuajingdian_twn/playlist.m3u8
+龙华偶像,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/lunghuaidol_twn/playlist.m3u8
+靖天国际台,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/jingtianintl_twn/playlist.m3u8
+年代新闻,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/niandainews_twn/playlist.m3u8
+纬来日本台,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/videolandjapan/playlist.m3u8
+纬来电影台,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/videolandmovie_twn/playlist.m3u8
+纬来体育台,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/videolandsport/playlist.m3u8
+纬来综合台,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/videolandzonghe/playlist.m3u8
+纬来育乐,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/videolandyule/playlist.m3u8
+纬来精彩,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/videolandspecial_twn/playlist.m3u8
+好消息 2,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/goods_twn/playlist.m3u8
+大爱2台,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/catchplay_twn/playlist.m3u8
+亚洲美食,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/afc_twn/playlist.m3u8
+美食星球,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/foodplanet_twn/playlist.m3u8
+亚洲旅游 TLC Asia,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/tlc_twn/playlist.m3u8
+东森电影 ETTV Movie,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/ettvmovie/playlist.m3u8
+阿里郎 Arirang,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/arirang_twn/playlist.m3u8
+博斯运动 1,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/bosisport1_twn/playlist.m3u8
+博斯运动 2,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/bosisport2_twn/playlist.m3u8
+博斯高球2 HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/bosigolf2_twn/playlist.m3u8
+博斯网球 HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/bositennis_twn/playlist.m3u8
+东森洋片 ETTV Western,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/ettvwestern/playlist.m3u8
+龙华洋片 Lunghua Western,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/lunghuawestern_twn/playlist.m3u8
+博斯无限,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/bosiunlimited_twn/playlist.m3u8
+MTV Live,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/mtvhd_twn/playlist.m3u8
+CINEMAX,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/cinemax_twn/playlist.m3u8
+AXN Taiwan,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/axn_twn/playlist.m3u8
+龙详时代,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/lungxiangtime_twn/playlist.m3u8
+EYETV 旅游,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/eyetvtravel_twn/playlist.m3u8
+靖天卡通台,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/jingtiancartoon_twn/playlist.m3u8
+EYETV 戏剧,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/eyetvxiju_twn/playlist.m3u8
+卫视中文台 Star Movies Chinese,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/weishichinese_twn/playlist.m3u8
+东森幼幼 Yoyo TV,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/yoyo_twn/playlist.m3u8
+卫视电影台,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/weishimovie_twn/playlist.m3u8
+美亚电影,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8
+爱尔达影剧台,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/eltayingju_twn/playlist.m3u8
+爱尔达综合台,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/eltazonghe_twn/playlist.m3u8
+星卫电影,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/xingwei_movie/playlist.m3u8
+爱尔达影剧,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/eltayingju_twn/playlist.m3u8
+爱尔达体育2台,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8
+爱尔达体育3台,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/eltasport3_twn/playlist.m3u8
+AFC 亚洲旅游台,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/asiatravel_twn/playlist.m3u8
+
+
+HBO_HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/hbohd_twn/playlist.m3u8
+HBO_HITS,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/hbohits_twn/playlist.m3u8
+Hollywood Movies,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8
+CCTV-6,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/cctv6/playlist.m3u8
+CINEMAX,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/cinemax_twn/playlist.m3u8
+Cinemax,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Cinemax/playlist.m3u8
+AXN Taiwan,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/axn_twn/playlist.m3u8
+大爱2台,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/catchplay_twn/playlist.m3u8
+东森电影 ETTV Movie,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/ettvmovie/playlist.m3u8
+东森洋片 ETTV Western,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/ettvwestern/playlist.m3u8
+龙华洋片 Lunghua Western,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/lunghuawestern_twn/playlist.m3u8
+龙详时代,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/lungxiangtime_twn/playlist.m3u8
+Animax,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Animax/playlist.m3u8
+Movies Now HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/moviesnow_raj/playlist.m3u8
+Star Movies HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/starmovies_raj/playlist.m3u8
+卫视中文台 Star Movies Chinese,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/weishichinese_twn/playlist.m3u8
+HBO Family,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Hbofamily/playlist.m3u8
+HBO Hits HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Hbohits/playlist.m3u8
+HBO HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Hbo/playlist.m3u8
+卫视电影台,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/weishimovie_twn/playlist.m3u8
+HBO Signature,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Hbosignature/playlist.m3u8
+Hits,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Hits/playlist.m3u8
+Warner TV,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/WarnerTV/playlist.m3u8
+美亚电影,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8
+星卫电影,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/xingwei_movie/playlist.m3u8
+SCM,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Weishimovie/playlist.m3u8
+Thrill,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Thrill/playlist.m3u8
+One,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/One_mega/playlist.m3u8
+Hits Movie,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Hitsmovie/playlist.m3u8
+tvN Movie,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Tvnmovie/playlist.m3u8
+Celestial Classic,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Celestial2/playlist.m3u8
+Sony Pix HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/sonypix_mega/playlist.m3u8
+Celestial Movies HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Celestialindo/playlist.m3u8
+Axn HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Axn/playlist.m3u8
+Paramount Network,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Paramountnetwork/playlist.m3u8
+Astrol Kplus,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Kplus/playlist.m3u8
+Rock Actions,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Rockaction/playlist.m3u8
+Rock Entertainment,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Rockentertain/playlist.m3u8
+Natgeo_HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8
+NatGeo_Wild HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8
+Animal_Planet,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/animalplanet_twn/playlist.m3u8
+Discovery Asia,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8
+CI,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/ci_twn/playlist.m3u8
+Asia Travel,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/asiatravel_twn/playlist.m3u8
+Discovery HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/discoveryhd_twn/playlist.m3u8
+亚洲美食,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/afc_twn/playlist.m3u8
+美食星球,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/foodplanet_twn/playlist.m3u8
+亚洲旅游 TLC Asia,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/tlc_twn/playlist.m3u8
+NatGeo HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Natgeo/playlist.m3u8
+Fashion TV,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/fashiontv_twn/playlist.m3u8
+History,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/History/playlist.m3u8
+BBC Earth HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/bbcearth_twn/playlist.m3u8
+BBC Earth Lifestyle,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/bbclifestyle_twn/playlist.m3u8
+MTV Live,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/mtvhd_twn/playlist.m3u8
+NatGeo Wild HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Natgeowild/playlist.m3u8
+Animal Planet (Eng),http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/AnimalPlanet/playlist.m3u8
+TLC,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Tlc/playlist.m3u8
+AFC 亚洲旅游台,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/asiatravel_twn/playlist.m3u8
+Foodnetwork Hd,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Foodnetwork_mega/playlist.m3u8
+HGTV,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/HGTV/playlist.m3u8
+
+Skynews,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/skynews_antik/playlist.m3u8
+ABC News,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/abcnews_glo/playlist.m3u8
+东森财经新闻 ETTV Business,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/ettvcaijing_twn/playlist.m3u8
+CBS HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/cbshd_glo/playlist.m3u8
+CBSN HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/cbsn_glo/playlist.m3u8
+France 24,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/france24_twn/playlist.m3u8
+DW (Deutsch),http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/dw_twn/playlist.m3u8
+NHK World,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/nhkworld_japan/playlist.m3u8
+Fox News,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/foxnews_twn/playlist.m3u8
+CGTN,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/CGTN/playlist.m3u8
+CNN International,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Cnn/playlist.m3u8
+CNN backup,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/cnn_twn/playlist.m3u8
+CNBC,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/cnbc_twn/playlist.m3u8
+CNA,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/cna/playlist.m3u8
+BBC World News,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8
+BBC World News,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Bbcnews/playlist.m3u8
+Bloomberg News,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/bloomberg_twn/playlist.m3u8
+Al-Jazeera,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/aljazeera_twn/playlist.m3u8
+Baby TV Eng,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Babytv/playlist.m3u8
+CBeebies,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Cbeebies/playlist.m3u8
+Kids TV,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/KidsTV/playlist.m3u8
+Boomerang,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Boomerang/playlist.m3u8
+Disney Taiwan,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/disneytwn_twn/playlist.m3u8
+Momo TV,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/momo1_twn/playlist.m3u8
+Animax,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Animax/playlist.m3u8
+靖天卡通台,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/jingtiancartoon_twn/playlist.m3u8
+Boomerang Taiwan,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/boomerang_twn/playlist.m3u8
+Baby TV,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/babytv_twn/playlist.m3u8
+MiaoMi,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/MiaoMi/playlist.m3u8
+东森幼幼 Yoyo TV,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/yoyo_twn/playlist.m3u8
+Cartoon Network,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Cn/playlist.m3u8
+Nickelodeon,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Nickelodeon/playlist.m3u8
+Nick Jr,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Nickjr/playlist.m3u8
+TV1,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/TV1/playlist.m3u8
+TV1 backup,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/TV1_backup/playlist.m3u8
+TV2,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/TV2/playlist.m3u8
+TV3,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/TV3/playlist.m3u8
+TV3 backup,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/tv3_twn/playlist.m3u8
+NTV7,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/NTV7/playlist.m3u8
+TV8,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/TV8/playlist.m3u8
+TV9,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/TV9/playlist.m3u8
+Warna backup 2,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Warna/playlist.m3u8
+Warna,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Warna-O/playlist.m3u8
+RIA,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Ria-O/playlist.m3u8
+Ria backup,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Ria/playlist.m3u8
+Ria backup 2,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Ria_backup/playlist.m3u8
+Ria backup3,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Test22/playlist.m3u8
+Al-Hijrah,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Alhijrah/playlist.m3u8
+Al-Hijrah backup,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Alhijrah_backup/playlist.m3u8
+Awani,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Awani/playlist.m3u8
+Bernama,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Bernama/playlist.m3u8
+Prima,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Prima1_xue/playlist.m3u8
+Prima backup,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Prima_backup/playlist.m3u8
+Ceria,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Ceria/playlist.m3u8
+Mecca Live HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/quran_mido/playlist.m3u8
+Madinah HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/sunnah_mido/playlist.m3u8
+Oasis,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Oasis/playlist.m3u8
+HBO Hits HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Hbohits/playlist.m3u8
+HBO HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Hbo/playlist.m3u8
+HBO Signature,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Hbosignature/playlist.m3u8
+NatGeo Wild HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Natgeowild/playlist.m3u8
+Cartoon Network,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Cn/playlist.m3u8
+Nickelodeon,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Nickelodeon/playlist.m3u8
+Nick Jr,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Nickjr/playlist.m3u8
+Dreamworks,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Dreamworks/playlist.m3u8
+Citra,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Citra_xue/playlist.m3u8
+Aura,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Aura/playlist.m3u8
+Rania,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Rania/playlist.m3u8
+Boo,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Boo/playlist.m3u8
+Awesome TV,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Dsangat/playlist.m3u8
+Sony HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/SetOne/playlist.m3u8
+KBS World,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/KBS/playlist.m3u8
+TvN,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/TVN/playlist.m3u8
+Astro Premier,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Astropremier/playlist.m3u8
+AEC,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/AEC/playlist.m3u8
+华丽台 HD （Wah Lai Toi）,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Wlt/playlist.m3u8
+欢喜台 HD （Hua Hee Tai）,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Huahee/playlist.m3u8
+欢喜台 backup,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Huahee_backup/playlist.m3u8
+Astro QJ,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Quanjia/playlist.m3u8
+TVB Magic,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Tvbmagic/playlist.m3u8
+TVB Jade,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Tvbjade/playlist.m3u8
+TVB Asia,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Tvbasia/playlist.m3u8
+TVB Entertainment,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Tvbentertainment/playlist.m3u8
+TVB Classic,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Tvbclassic/playlist.m3u8
+AOD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/AodHD/playlist.m3u8
+One,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/One_mega/playlist.m3u8
+Arena,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Arena/playlist.m3u8
+TVB 星河台 Xing He,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Xinhe/playlist.m3u8
+爱奇艺 iQiyi,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Qiyi/playlist.m3u8
+Animal Planet (Eng),http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/AnimalPlanet/playlist.m3u8
+tvN Movie,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Tvnmovie/playlist.m3u8
+Arena 2,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Arena2/playlist.m3u8
+CNN backup,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/cnn_twn/playlist.m3u8
+Celestial Classic,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Celestial2/playlist.m3u8
+CNBC,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/cnbc_twn/playlist.m3u8
+TLC,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Tlc/playlist.m3u8
+CNA,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/cna/playlist.m3u8
+AFC 亚洲旅游台,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/asiatravel_twn/playlist.m3u8
+BBC World News,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8
+Foodnetwork Hd,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Foodnetwork_mega/playlist.m3u8
+HGTV,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/HGTV/playlist.m3u8
+Goshop,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Goshop/playlist.m3u8
+Celestial Movies HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Celestial_mega/playlist.m3u8
+RTM Sports HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Rtmsport/playlist.m3u8
+BolaArena 1,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Bolaarena1/playlist.m3u8
+Axn HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Axn/playlist.m3u8
+Paramount Network,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Paramountnetwork/playlist.m3u8
+Astrol Kplus,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Kplus/playlist.m3u8
+Rock Actions,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Rockaction/playlist.m3u8
+Bloomberg News,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/bloomberg_twn/playlist.m3u8
+Al-Jazeera,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/aljazeera_twn/playlist.m3u8
+Rock Entertainment,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Rockentertain/playlist.m3u8
+Showcase,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Showcase_mega/playlist.m3u8
+Channel 5,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Channel5HD/playlist.m3u8
+Ch 5 backup,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Ch5_mega/playlist.m3u8
+Channel 8,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Channel8HD/playlist.m3u8
+Channel 8 backup,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Ch8_mega/playlist.m3u8
+Suria,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Suria/playlist.m3u8
+Suria backup,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Suria_backup/playlist.m3u8
+Channel U,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/ChannelU/playlist.m3u8
+Channel U backup,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/ChU_mega/playlist.m3u8
+Vasantham,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Vasantham/playlist.m3u8
+Vasantham backup,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Vasantham_mega/playlist.m3u8
+CNA,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/cna/playlist.m3u8
+CNA backup,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/cna_twn/playlist.m3u8
+TVRI National,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/TVRI/playlist.m3u8
+RCTI,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Rcti/playlist.m3u8
+Kompass TV,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Kompass/playlist.m3u8
+Berita Satu,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/BeritaSatu_eko/playlist.m3u8
+Indosiar HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Indosiar/playlist.m3u8
+AnTV,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Antv/playlist.m3u8
+MNC TV,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Mnctv/playlist.m3u8
+Trans 7,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Trans7_eko/playlist.m3u8
+Transtv,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Transtv/playlist.m3u8
+JTV,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/JTV_eko/playlist.m3u8
+Metro TV,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/metrotv_eko/playlist.m3u8
+Cinemax,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Cinemax/playlist.m3u8
+SCTV,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/SCTV/playlist.m3u8
+Tvone,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Tvone/playlist.m3u8
+TVMU,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/TVMU_eko/playlist.m3u8
+GTV,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Gtv/playlist.m3u8
+RTV,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Rtv/playlist.m3u8
+Jak TV,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/JakTV/playlist.m3u8
+iNews TV,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Inewstv/playlist.m3u8
+Daai TV,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/DaaiTV/playlist.m3u8
+Net TV,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/NetTV/playlist.m3u8
+Animax,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Animax/playlist.m3u8
+EWTN,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Ewtn/playlist.m3u8
+AlQuran AlKareem,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/AlQuran/playlist.m3u8
+Tawaf TV,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/TawafTV/playlist.m3u8
+Vision Prime,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/VisionPrime/playlist.m3u8
+Muslim TV,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/MuslimTV/playlist.m3u8
+Music TV,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/MusicTV/playlist.m3u8
+Lifestyle&Fashion,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Lifestyle/playlist.m3u8
+Entertain,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Entertain/playlist.m3u8
+Hits,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Hits/playlist.m3u8
+Warner TV,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/WarnerTV/playlist.m3u8
+SCM,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Weishimovie/playlist.m3u8
+Thrill,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Thrill/playlist.m3u8
+Fight Sports,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Fs/playlist.m3u8
+Beinsports 2 HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Bein2hd/playlist.m3u8
+One,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/One_mega/playlist.m3u8
+Hits Movie,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Hitsmovie/playlist.m3u8
+tvN Movie,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Tvnmovie/playlist.m3u8
+Celestial Movies HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Celestialindo/playlist.m3u8
+Rock Actions,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Rockaction/playlist.m3u8
+Rock Entertainment,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Rockentertain/playlist.m3u8
+Supersports 1,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Assp1/playlist.m3u8
+Supersports 1 backup,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/go_assp1/playlist.m3u8
+Supersportq 1 backup2,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Assp1_mega/playlist.m3u8
+Supersports 2,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Assp2/playlist.m3u8
+Supersports 2 backup,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/go_assp2/playlist.m3u8
+Supersports 3,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Assp3/playlist.m3u8
+Supersports 3 backup,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/go_assp3/playlist.m3u8
+Supersports 3 backup2,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Assp3_mega/playlist.m3u8
+Supersports 4,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Assp4_mega/playlist.m3u8
+Supersports 4 backup,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/go_assp4/playlist.m3u8
+Supersports 5,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/go_assp5/playlist.m3u8
+Bein 2HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Beinhd/playlist.m3u8
+Beinsports HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Besports/playlist.m3u8
+Champion 5 EPL,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Champion5epl/playlist.m3u8
+WWE,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Wwe/playlist.m3u8
+Champion 6 EPL,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Champion6epl/playlist.m3u8
+Fight Sports,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Fs/playlist.m3u8
+UFC Network,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/ufc_mega/playlist.m3u8
+NBA TV,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/nbatv_twn/playlist.m3u8
+Astro Cricket,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Acricket_mega/playlist.m3u8
+Astro Golf,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Agolf/playlist.m3u8
+Sony Ten 1,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/ten1_raj/playlist.m3u8
+Sony Ten 2,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/ten2_raj/playlist.m3u8
+Sony Ten 3,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/ten3_raj/playlist.m3u8
+Sony Six HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/sonysix_raj/playlist.m3u8
+SPOTV 1 HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/go_spotv/playlist.m3u8
+SPO TV 2,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/go_spotv2/playlist.m3u8
+Beinsports 2 HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Bein2hd/playlist.m3u8
+Skysports Arena,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/tiankongarena/playlist.m3u8
+Skysports F1,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/tiankongf1/playlist.m3u8
+Skysports Cricket,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/tiankongcricket/playlist.m3u8
+Skysports EPL,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/tiankongepl/playlist.m3u8
+Skysports Football,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/tiankongfootball/playlist.m3u8
+Skysports Golf,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/tiankonggolf/playlist.m3u8
+Skysports Main Event,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/tiankongmain/playlist.m3u8
+Skysports News,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/tiankongnews/playlist.m3u8
+Skysports NFL,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/tiankongnfl/playlist.m3u8
+Skysports Racing,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/tiankongracing/playlist.m3u8
+Skysports Mix,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/tiankongmix/playlist.m3u8
+CCTV-5 体育频道,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/cctv5/playlist.m3u8
+CCTV-5+ 体育赛事 HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/cctv5plus/playlist.m3u8
+爱尔达体育2台,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8
+爱尔达体育3台,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/eltasport3_twn/playlist.m3u8
+Arena,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Arena/playlist.m3u8
+Beins 1 English,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/bein1eng_mega/playlist.m3u8
+Bein3 English,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/bein3eng_mega/playlist.m3u8
+Bein 4 Sports,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/bein4_mega/playlist.m3u8
+Arena 2,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Arena2/playlist.m3u8
+Bein 5 Sports,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/bein5_mega/playlist.m3u8
+Bein 1 Premium,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/bein1pre_mega/playlist.m3u8
+Bein 2 Premium,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/bein2pre_mega/playlist.m3u8
+Bein 3 Premium,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/bein3pre_mega/playlist.m3u8
+RTM Sports HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Rtmsport/playlist.m3u8
+BolaArena 1,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Bolaarena1/playlist.m3u8
+Bein 1 Xtra,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/bein1xtra_mega/playlist.m3u8
+Rugby Pass TV,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Rugbypasstv/playlist.m3u8
+Beinsports Rugby,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/go_beinsrugby/playlist.m3u8
+Channel 3 Thailand,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/ch3_pat/playlist.m3u8
+Channel 5 Thailand,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/ch5_pat/playlist.m3u8
+Channel 7 Thailand,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/ch7_pat/playlist.m3u8
+MCOT HD Thailand-1,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/mcot_pat/playlist.m3u8
+PPTV Thailand1,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/pptv_pat/playlist.m3u8
+Thai Thai,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/thaithai_pat/playlist.m3u8
+Amarin,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/amarin_pat/playlist.m3u8
+Ch 8,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/ch8_pat/playlist.m3u8
+GmmOne,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/gmmone_pat/playlist.m3u8
+Mono,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/mono_pat/playlist.m3u8
+Thairath,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/thairath_pat/playlist.m3u8
+tpbs,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/tpbs_pat/playlist.m3u8
+Workpoint,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/workpoint_pat/playlist.m3u8
+Gmm Channel,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/gmmchannel_pat/playlist.m3u8
+Nation,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/nation_pat/playlist.m3u8
+Tnn24,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/tnn24_pat/playlist.m3u8
+Nbt,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/nbt_pat/playlist.m3u8
+New,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/new_pat/playlist.m3u8
+TPTV,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/tptv_pat/playlist.m3u8
+BBC 1,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/bbc1_antik/playlist.m3u8
+BBC 2,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/bbc2_antik/playlist.m3u8
+CBBC,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/cbbc_antik/playlist.m3u8
+More4,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/more4_antik/playlist.m3u8
+Freesports,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/freesports_antik/playlist.m3u8
+Skynews,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/skynews_antik/playlist.m3u8
+Pick TV,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/picktv_antik/playlist.m3u8
+itv 1,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/itv1_antik/playlist.m3u8
+itv 2,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/itv2_antik/playlist.m3u8
+Euronews,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/euronews_antik/playlist.m3u8
+Channel 4,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/channel4_antik/playlist.m3u8
+NatGeo HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Natgeo/playlist.m3u8
+CBeebies,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Cbeebies/playlist.m3u8
+History,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/History/playlist.m3u8
+Kids TV,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/KidsTV/playlist.m3u8
+France 24,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/france24_twn/playlist.m3u8
+DW (Deutsch),http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/dw_twn/playlist.m3u8
+Boomerang,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Boomerang/playlist.m3u8
+BBC Earth HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/bbcearth_twn/playlist.m3u8
+BBC Earth Lifestyle,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/bbclifestyle_twn/playlist.m3u8
+MTV Live,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/mtvhd_twn/playlist.m3u8
+Star Movies HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/starmovies_raj/playlist.m3u8
+NHK World,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/nhkworld_japan/playlist.m3u8
+HBO Hits HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Hbohits/playlist.m3u8
+HBO HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Hbo/playlist.m3u8
+NatGeo Wild HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Natgeowild/playlist.m3u8
+Warner TV,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/WarnerTV/playlist.m3u8
+Nickelodeon,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Nickelodeon/playlist.m3u8
+Nick Jr,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Nickjr/playlist.m3u8
+Thrill,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Thrill/playlist.m3u8
+CGTN,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/CGTN/playlist.m3u8
+Skysports Arena,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/tiankongarena/playlist.m3u8
+Skysports F1,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/tiankongf1/playlist.m3u8
+Skysports Cricket,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/tiankongcricket/playlist.m3u8
+Skysports EPL,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/tiankongepl/playlist.m3u8
+Skysports Football,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/tiankongfootball/playlist.m3u8
+Skysports Golf,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/tiankonggolf/playlist.m3u8
+Skysports Main Event,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/tiankongmain/playlist.m3u8
+Skysports News,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/tiankongnews/playlist.m3u8
+Hits Movie,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Hitsmovie/playlist.m3u8
+Animal Planet (Eng),http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/AnimalPlanet/playlist.m3u8
+CNBC,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/cnbc_twn/playlist.m3u8
+TLC,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Tlc/playlist.m3u8
+BBC World News,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/bbcworldnews_antik/playlist.m3u8
+HGTV,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/HGTV/playlist.m3u8
+Axn HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Axn/playlist.m3u8
+Bloomberg News,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/bloomberg_twn/playlist.m3u8
+Al-Jazeera,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/aljazeera_twn/playlist.m3u8
+Arirang HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/arirang_korea/playlist.m3u8
+Yonhap News,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/yonhapnews_korea/playlist.m3u8
+CBS,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/cbs_korea/playlist.m3u8
+EBS 1,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/ebs1_korea/playlist.m3u8
+EBS2,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/ebs2_korea/playlist.m3u8
+EBS Plus2,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/ebsplus2_korea/playlist.m3u8
+SBS Plus,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/sbsplus_korea/playlist.m3u8
+YTN,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/ytn_korea/playlist.m3u8
+KBS World 24,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/kbsworld24_korea/playlist.m3u8
+YTN Science,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/ytnscience_korea/playlist.m3u8
+YTN Korean,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/ytnkorean_korea/playlist.m3u8
+YTN DMB,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/ytndmb_korea/playlist.m3u8
+Apps TV,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/appongoogle_korea/playlist.m3u8
+All the Kpop,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/allthekpop_korea/playlist.m3u8
+J the Kpop,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/jthekpop_korea/playlist.m3u8
+EBS Kids,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/ebskids_korea/playlist.m3u8
+CGNTV,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/cgntv_korea/playlist.m3u8
+NHK-総合-2,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/nhkg_japan/playlist.m3u8
+NHK-E,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/nhke_japan/playlist.m3u8
+テレビ朝日 Asahi TV,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/asahitv_japan/playlist.m3u8
+JET 綜合,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/jettv_japan/playlist.m3u8
+テレビ東京 Tokyo TV,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/tokyotv_japan/playlist.m3u8
+TOKYOMX,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/tokyomx_japan/playlist.m3u8
+NHKBS1,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/nhkbs1_japan/playlist.m3u8
+NHKBSプレミア Premium,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/nhkpremium_japan/playlist.m3u8
+BSジャパン 181,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/bs181_japan/playlist.m3u8
+BSフジ BS Fuji,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/bsfuji_japan/playlist.m3u8
+CNA Japan,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/cna_japan/playlist.m3u8
+BS-TBS,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/bstbs_japan/playlist.m3u8
+NHK Oaska,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/nhkosaka_japan/playlist.m3u8
+NHK World,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/nhkworld_japan/playlist.m3u8
+Sun TV HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Suntv/playlist.m3u8
+Star Vijay,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Starvijay/playlist.m3u8
+Colors Tamil,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Colorstam_mega/playlist.m3u8
+Sun Music,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Sunmusic/playlist.m3u8
+Zee Tamil,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Zeetamil/playlist.m3u8
+Zee Business,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Zeebusiness/playlist.m3u8
+News 18 Tamil,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/news18tamil_raj/playlist.m3u8
+Adithya,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Adithya/playlist.m3u8
+Thanthi TV,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/thanthitv/playlist.m3u8
+Makkal TV,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Makkaltv/playlist.m3u8
+Zee Action,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Zeeaction/playlist.m3u8
+KTV UK,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/ktvuk_tamil/playlist.m3u8
+Zee TV HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Zeetvhd/playlist.m3u8
+Zee Cinema HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Zeecinemahd/playlist.m3u8
+Color HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Colorhd/playlist.m3u8
+Picture HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Npicture/playlist.m3u8
+Zee News,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Zeenews/playlist.m3u8
+Asianet,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/asianet_raj/playlist.m3u8
+Asianet News,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/asianetnews_raj/playlist.m3u8
+Times Now,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/timesnow_raj/playlist.m3u8
+BBC Earth Tamil,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/bbcearthtam_raj/playlist.m3u8
+Discovery World Tamil,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/discoveryworldtam_raj/playlist.m3u8
+History Tamil,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/historytam_raj/playlist.m3u8
+NatGeo Tamil,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/natgeotamil_raj/playlist.m3u8
+Natgeo Wild Tamil,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/natgeowildtamil_raj/playlist.m3u8
+Cartoon Network Tamil,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/cntamil_raj/playlist.m3u8
+Discovery Kids Tamil,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/discoverykidtamil_raj/playlist.m3u8
+Discovery Tamil,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/discoverytamil_raj/playlist.m3u8
+Sony Yay Tamil,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/sonyyaytam_raj/playlist.m3u8
+Sun TV India,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/suntv_raj/playlist.m3u8
+Starmaa HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/starmaa_raj/playlist.m3u8
+Starmaa Movies HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/starmaamovies_raj/playlist.m3u8
+Bollyone,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Bollyone/playlist.m3u8
+Astro Sunmusic,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/Sunmusic/playlist.m3u8
+Sony Pix HD,http://43.224.33.165/python/smart.php?playurl=http://198.16.100.90:8278/sonypix_mega/playlist.m3u8
+
 
 综合频道,#genre# 
 
@@ -646,7 +1222,43 @@ Bestv赛事5,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001153/in
 咪咕视频,http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/wh7f454c46tw335987399_819129170/ott.mobaibox.com/PLTV/3/224/3221228193/index.m3u8?icpid=3&RTS=1674380451&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 咪咕视频,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/wh7f454c46tw336300127_-934579930/ott.mobaibox.com/PLTV/3/224/3221228234/index.m3u8?icpid=3&RTS=1674380451&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 咪咕视频,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/wh7f454c46tw359257769_1895127265/ott.mobaibox.com/PLTV/3/224/3221227529/index.m3u8?icpid=3&RTS=1674380474&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
+金色学堂,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001194/index.m3u8
+纪实人文,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001019/index.m3u8
+生活时尚,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001199/index.m3u8
+乐游频道,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001200/index.m3u8
+都市剧场,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001203/index.m3u8
+欢笑剧场,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001193/index.m3u8
+卡酷少儿,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001245/index.m3u8
+金鹰纪实,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001230/index.m3u8
+金鹰卡通,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001460/index.m3u8
+茶友频道,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001234/index.m3u8
+快乐垂钓,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001235/index.m3u8
+嘉佳卡通,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001227/index.m3u8
+动漫秀场,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001196/index.m3u8
+哈哈炫动,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001232/index.m3u8
+游戏风云,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001192/index.m3u8
+家庭理财,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001278/index.m3u8
+财富天下,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001219/index.m3u8
 
+上海新闻,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8
+上海都市,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001015/index.m3u8
+上海ICS,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8
+七彩戏剧,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001308/index.m3u8
+上海教育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001268/index.m3u8
+五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
+东方影视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8
+东方财经,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001318/index.m3u8
+法治天地,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001195/index.m3u8
+第一财经,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001017/index.m3u8
+东方购物1,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001040/index.m3u8
+东方购物2,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001039/index.m3u8
+央广购物,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001420/index.m3u8
+优购物,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001440/index.m3u8
+好享购物,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001132/index.m3u8
+聚鲨精选,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001138/index.m3u8
+家家购物,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001163/index.m3u8
+家有购物,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001244/index.m3u8
+快乐购,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001368/index.m3u8
 蓝光高清,#genre#
 
 纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/wh7f454c46tw2045655319_-2135022099/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1674373571&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
@@ -699,231 +1311,6 @@ CCTV8K-超高清,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749
 CCTV16-4K,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw3797101779_1427264412/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8?icpid=4&RTS=1674379617&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
 
 
-湖南电信,#genre#
-
-
-湖南卫视,http://www.erbao1981.top:8188/udp/239.76.246.100:1234
-湖南卫视,http://www.erbao1981.top:8188/udp/239.76.245.115:1234
-湖南经视,http://www.erbao1981.top:8188/udp/239.76.245.116:1234
-湖南都市,http://www.erbao1981.top:8188/udp/239.76.245.117:1234
-湖南影视,http://www.erbao1981.top:8188/udp/239.76.245.118:1234
-湖南电影,http://www.erbao1981.top:8188/udp/239.76.245.119:1234
-金鹰卡通,http://www.erbao1981.top:8188/udp/239.76.245.120:1234
-湖南娱乐,http://www.erbao1981.top:8188/udp/239.76.245.121:1234
-金鹰纪实,http://www.erbao1981.top:8188/udp/239.76.245.122:1234
-湖南爱晚,http://www.erbao1981.top:8188/udp/239.76.245.123:1234
-湖南国际,http://www.erbao1981.top:8188/udp/239.76.245.124:1234
-快乐购物,http://www.erbao1981.top:8188/udp/239.76.245.125:1234
-快乐垂钓,http://www.erbao1981.top:8188/udp/239.76.245.127:1234
-九宫格屏,http://www.erbao1981.top:8188/udp/239.76.245.131:1234
-湖南卫视,http://www.erbao1981.top:8188/udp/239.76.246.101:1234
-湖南经视,http://www.erbao1981.top:8188/udp/239.76.246.103:1234
-湖南都市,http://www.erbao1981.top:8188/udp/239.76.246.104:1234
-湖南娱乐,http://www.erbao1981.top:8188/udp/239.76.246.105:1234
-湖南影视,http://www.erbao1981.top:8188/udp/239.76.246.108:1234
-湖南电影,http://www.erbao1981.top:8188/udp/239.76.246.106:1234
-湖南娱乐,http://www.erbao1981.top:8188/udp/239.76.246.105:1234
-湖南爱晚,http://www.erbao1981.top:8188/udp/239.76.246.109:1234
-湖南国际,http://www.erbao1981.top:8188/udp/239.76.245.240:1234
-湖南国际,http://www.erbao1981.top:8188/udp/239.76.246.102:1234
-湖南教育,http://www.erbao1981.top:8188/udp/239.76.245.233:1234
-长沙女姓,http://www.erbao1981.top:8188/udp/239.76.245.23:1234
-长沙新闻,http://www.erbao1981.top:8188/udp/239.76.246.121:1234
-长沙政法,http://www.erbao1981.top:8188/udp/239.76.246.122:1234
-长沙影视,http://www.erbao1981.top:8188/udp/239.76.245.204:1234
-湘西综合,http://www.erbao1981.top:8188/udp/239.76.245.208:1234
-湘西公共,http://www.erbao1981.top:8188/udp/239.76.245.209:1234
-湘西公共,http://www.erbao1981.top:8188/udp/239.76.245.210:1234
-浏阳市台,http://www.erbao1981.top:8188/udp/239.76.248.6:1234
-常德综合,http://www.erbao1981.top:8188/udp/239.76.248.10:1234
-常德公共,http://www.erbao1981.top:8188/udp/239.76.248.11:1234
-怀化综合,http://www.erbao1981.top:8188/udp/239.76.248.12:1234
-衡阳综合,http://www.erbao1981.top:8188/udp/239.76.248.13:1234
-衡阳公共,http://www.erbao1981.top:8188/udp/239.76.248.14:1234
-娄底综合,http://www.erbao1981.top:8188/udp/239.76.248.18:1234
-娄底公共,http://www.erbao1981.top:8188/udp/239.76.248.19:1234
-娄底市台,http://www.erbao1981.top:8188/udp/239.76.248.20:1234
-邵阳综合,http://www.erbao1981.top:8188/udp/239.76.248.21:1234
-邵阳公共,http://www.erbao1981.top:8188/udp/239.76.248.22:1234
-永州综合,http://www.erbao1981.top:8188/udp/239.76.248.23:1234
-溆浦综合,http://www.erbao1981.top:8188/udp/239.76.248.25:1234
-衡阳县台,http://www.erbao1981.top:8188/udp/239.76.248.26:1234
-道县综合,http://www.erbao1981.top:8188/udp/239.76.248.28:1234
-武冈综合,http://www.erbao1981.top:8188/udp/239.76.248.29:1234
-临澧综合,http://www.erbao1981.top:8188/udp/239.76.248.32:1234
-长沙县台,http://www.erbao1981.top:8188/udp/239.76.248.33:1234
-宁乡综合,http://www.erbao1981.top:8188/udp/239.76.248.57:1234
-郴州综合,http://www.erbao1981.top:8188/udp/239.76.246.75:1234
-桂东融媒,http://www.erbao1981.top:8188/udp/239.76.246.231:1234
-津市电视台,http://www.erbao1981.top:8188/udp/239.76.248.30:1234
-新化电视台,http://www.erbao1981.top:8188/udp/239.76.248.31:1234
-张家界综合,http://www.erbao1981.top:8188/udp/239.76.245.234:1234
-张家界公共,http://www.erbao1981.top:8188/udp/239.76.245.235:1234
-凤凰资讯,http://www.erbao1981.top:8188/udp/239.76.246.8:1234
-凤凰资讯,http://www.erbao1981.top:8188/udp/239.76.246.134:1234
-凤凰中文,http://www.erbao1981.top:8188/udp/239.76.246.7:1234
-凤凰中文,http://www.erbao1981.top:8188/udp/239.76.246.135:1234
-CCTV1,http://www.erbao1981.top:8188/udp/239.76.246.151:1234
-CCTV2,http://www.erbao1981.top:8188/udp/239.76.246.152:1234
-CCTV3,http://www.erbao1981.top:8188/udp/239.76.246.153:1234
-CCTV4,http://www.erbao1981.top:8188/udp/239.76.246.154:1234
-CCTV5,http://www.erbao1981.top:8188/udp/239.76.246.155:1234
-CCTV5,http://www.erbao1981.top:8188/udp/239.76.247.214:1234
-CCTV5+,http://www.erbao1981.top:8188/udp/239.76.246.168:1234
-CCTV5+,http://www.erbao1981.top:8188/udp/239.76.247.215:1234
-CCTV6,http://www.erbao1981.top:8188/udp/239.76.246.156:1234
-CCTV7,http://www.erbao1981.top:8188/udp/239.76.246.157:1234
-CCTV8,http://www.erbao1981.top:8188/udp/239.76.246.158:1234
-CCTV9,http://www.erbao1981.top:8188/udp/239.76.246.159:1234
-CCTV10,http://www.erbao1981.top:8188/udp/239.76.246.160:1234
-CCTV11,http://www.erbao1981.top:8188/udp/239.76.245.251:1234
-CCTV12,http://www.erbao1981.top:8188/udp/239.76.246.162:1234
-CCTV13,http://www.erbao1981.top:8188/udp/239.76.246.93:1234
-CCTV14,http://www.erbao1981.top:8188/udp/239.76.246.164:1234
-CCTV15,http://www.erbao1981.top:8188/udp/239.76.245.252:1234
-CCTV16,http://www.erbao1981.top:8188/udp/239.76.246.98:1234
-CCTV17,http://www.erbao1981.top:8188/udp/239.76.245.239:1234
-IPTV剧场4K-4K,http://www.erbao1981.top:8188/udp/239.76.245.35:1234
-电影测试-4K,http://www.erbao1981.top:8188/udp/239.76.247.3:1234
-百视通台-4K,http://www.erbao1981.top:8188/udp/239.76.247.4:1234
-CCTV央视-4K,http://www.erbao1981.top:8188/udp/239.76.247.64:1234
-奥林匹克-4K,http://www.erbao1981.top:8188/udp/239.76.247.200:1234
-奥林匹克-4K,http://www.erbao1981.top:8188/udp/239.76.246.230:1234
-CCTV央视-8k,http://www.erbao1981.top:8188/udp/239.76.247.199:1234
-欢笑剧场-4K,http://www.erbao1981.top:8188/udp/239.76.246.130:1234
-CCTV4欧洲,http://www.erbao1981.top:8188/udp/239.76.246.95:1234
-CCTV4美洲,http://www.erbao1981.top:8188/udp/239.76.246.96:1234
-CGTN英语,http://www.erbao1981.top:8188/udp/239.76.245.66:1234
-CGTN纪录,http://www.erbao1981.top:8188/udp/239.76.245.67:1234
-CGTN俄语,http://www.erbao1981.top:8188/udp/239.76.246.86:1234
-CGTN法语,http://www.erbao1981.top:8188/udp/239.76.246.87:1234
-CGTN西语,http://www.erbao1981.top:8188/udp/239.76.246.88:1234
-CGTN阿语,http://www.erbao1981.top:8188/udp/239.76.246.97:1234
-CHC家庭影院,http://www.erbao1981.top:8188/udp/239.76.245.241:1234
-CHC高清电影,http://www.erbao1981.top:8188/udp/239.76.245.242:1234
-CHC动作电影,http://www.erbao1981.top:8188/udp/239.76.245.243:1234
-第一剧场,http://www.erbao1981.top:8188/udp/239.76.247.49:1234
-风云剧场,http://www.erbao1981.top:8188/udp/239.76.247.50:1234
-风云音乐,http://www.erbao1981.top:8188/udp/239.76.247.51:1234
-风云足球,http://www.erbao1981.top:8188/udp/239.76.247.52:1234
-怀旧剧场,http://www.erbao1981.top:8188/udp/239.76.247.53:1234
-女姓时尚,http://www.erbao1981.top:8188/udp/239.76.247.55:1234
-央视精品,http://www.erbao1981.top:8188/udp/239.76.247.56:1234
-世界地理,http://www.erbao1981.top:8188/udp/239.76.247.57:1234
-央视台球,http://www.erbao1981.top:8188/udp/239.76.247.58:1234
-兵器科技,http://www.erbao1981.top:8188/udp/239.76.247.59:1234
-电视指南,http://www.erbao1981.top:8188/udp/239.76.247.61:1234
-央视网球,http://www.erbao1981.top:8188/udp/239.76.247.62:1234
-IPTV高清院线,http://www.erbao1981.top:8188/udp/239.76.245.217:1234
-IPTV抗战剧场,http://www.erbao1981.top:8188/udp/239.76.245.218:1234
-IPTV古装剧场,http://www.erbao1981.top:8188/udp/239.76.245.219:1234
-IPTV家庭剧场,http://www.erbao1981.top:8188/udp/239.76.245.220:1234
-IPTV经典剧场,http://www.erbao1981.top:8188/udp/239.76.245.221:1234
-IPTV芒果热剧,http://www.erbao1981.top:8188/udp/239.76.245.194:1234
-IPTV芒果热剧,http://www.erbao1981.top:8188/udp/239.76.246.222:1234
-IPTV芒果乐搜,http://www.erbao1981.top:8188/udp/239.76.245.200:1234
-IPTV芒果生活,http://www.erbao1981.top:8188/udp/239.76.245.201:1234
-IPTV芒果热播,http://www.erbao1981.top:8188/udp/239.76.245.215:1234
-IPTV芒果汽车,http://www.erbao1981.top:8188/udp/239.76.246.123:1234
-IPTV芒果互娱,http://www.erbao1981.top:8188/udp/239.76.246.126:1234
-IPTV戏曲频道,http://www.erbao1981.top:8188/udp/239.76.246.40:1234
-IPTV故事频道,http://www.erbao1981.top:8188/udp/239.76.246.41:1234
-IPTV健康之道,http://www.erbao1981.top:8188/udp/239.76.246.42:1234
-IPTV健康电视,http://www.erbao1981.top:8188/udp/239.76.246.127:1234
-IPTV精选热播,http://www.erbao1981.top:8188/udp/239.76.247.110:1234
-IPTV综艺纪实,http://www.erbao1981.top:8188/udp/239.76.247.111:1234
-IPTV甜宠剧场,http://www.erbao1981.top:8188/udp/239.76.247.109:1234
-IPTV搞笑动画,http://www.erbao1981.top:8188/udp/239.76.247.207:1234
-IPTV幼教动画,http://www.erbao1981.top:8188/udp/239.76.247.210:1234
-IPTV军旅剧场,http://www.erbao1981.top:8188/udp/239.76.245.134:1234
-IPTV芒果好看,http://www.erbao1981.top:8188/udp/239.76.246.219:1234
-IPTV体育篮球,http://www.erbao1981.top:8188/udp/239.76.246.136:1234
-IPTV电竞游戏,http://www.erbao1981.top:8188/udp/239.76.245.136:1234
-IPTV电竞游戏,http://www.erbao1981.top:8188/udp/239.76.245.214:1234
-IPTV芒果汽车,http://www.erbao1981.top:8188/udp/239.76.246.217:1234
-IPTV芒果精选,http://www.erbao1981.top:8188/udp/239.76.246.218:1234
-IPTV在线课堂,http://www.erbao1981.top:8188/udp/239.76.245.151:1234
-IPTV在线课堂,http://www.erbao1981.top:8188/udp/239.76.245.152:1234
-IPTV在线课堂,http://www.erbao1981.top:8188/udp/239.76.245.153:1234
-IPTV在线课堂,http://www.erbao1981.top:8188/udp/239.76.245.154:1234
-江苏卫视,http://www.erbao1981.top:8188/udp/239.76.246.181:1234
-浙江卫视,http://www.erbao1981.top:8188/udp/239.76.246.182:1234
-北京卫视,http://www.erbao1981.top:8188/udp/239.76.246.184:1234
-天津卫视,http://www.erbao1981.top:8188/udp/239.76.246.185:1234
-东方卫视,http://www.erbao1981.top:8188/udp/239.76.246.186:1234
-深圳卫视,http://www.erbao1981.top:8188/udp/239.76.246.188:1234
-湖北卫视,http://www.erbao1981.top:8188/udp/239.76.246.193:1234
-山东卫视,http://www.erbao1981.top:8188/udp/239.76.246.195:1234
-黑龙江卫视,http://www.erbao1981.top:8188/udp/239.76.246.200:1234
-吉林卫视,http://www.erbao1981.top:8188/udp/239.76.246.201:1234
-河南卫视,http://www.erbao1981.top:8188/udp/239.76.246.202:1234
-海南卫视,http://www.erbao1981.top:8188/udp/239.76.246.203:1234
-四川卫视,http://www.erbao1981.top:8188/udp/239.76.246.91:1234
-重庆卫视,http://www.erbao1981.top:8188/udp/239.76.246.92:1234
-广西卫视,http://www.erbao1981.top:8188/udp/239.76.247.54:1234
-陕西卫视,http://www.erbao1981.top:8188/udp/239.76.247.76:1234
-云南卫视,http://www.erbao1981.top:8188/udp/239.76.247.60:1234
-青海卫视,http://www.erbao1981.top:8188/udp/239.76.247.132:1234
-甘肃卫视,http://www.erbao1981.top:8188/udp/239.76.246.94:1234
-广东卫视,http://www.erbao1981.top:8188/udp/239.76.245.189:1234
-东南卫视,http://www.erbao1981.top:8188/udp/239.76.245.190:1234
-教育卫视,http://www.erbao1981.top:8188/udp/239.76.245.192:1234
-教育四套,http://www.erbao1981.top:8188/udp/239.76.245.254:1234
-早期教育,http://www.erbao1981.top:8188/udp/239.76.247.202:1234
-安徽卫视,http://www.erbao1981.top:8188/udp/239.76.245.196:1234
-辽宁卫视,http://www.erbao1981.top:8188/udp/239.76.245.197:1234
-河北卫视,http://www.erbao1981.top:8188/udp/239.76.245.199:1234
-贵州卫视,http://www.erbao1981.top:8188/udp/239.76.245.198:1234
-江西卫视,http://www.erbao1981.top:8188/udp/239.76.245.225:1234
-三沙卫视,http://www.erbao1981.top:8188/udp/239.76.246.74:1234
-金色夕阳,http://www.erbao1981.top:8188/udp/239.76.247.43:1234
-都市剧场,http://www.erbao1981.top:8188/udp/239.76.246.215:1234
-北京酷卡,http://www.erbao1981.top:8188/udp/239.76.247.81:1234
-金鹰卡通,http://www.erbao1981.top:8188/udp/239.76.246.107:1234
-金鹰纪实,http://www.erbao1981.top:8188/udp/239.76.246.110:1234
-全纪实台,http://www.erbao1981.top:8188/udp/239.76.246.137:1234
-金色学堂,http://www.erbao1981.top:8188/udp/239.76.246.139:1234
-法治天地,http://www.erbao1981.top:8188/udp/239.76.246.138:1234
-天元围棋,http://www.erbao1981.top:8188/udp/239.76.246.2:1234
-梨园频道,http://www.erbao1981.top:8188/udp/239.76.245.179:1234
-文物宝库,http://www.erbao1981.top:8188/udp/239.76.245.180:1234
-武术世界,http://www.erbao1981.top:8188/udp/239.76.245.181:1234
-游戏风云,http://www.erbao1981.top:8188/udp/239.76.246.132:1234
-极速汽车,http://www.erbao1981.top:8188/udp/239.76.246.133:1234
-动漫秀场,http://www.erbao1981.top:8188/udp/239.76.246.131:1234
-生活时尚,http://www.erbao1981.top:8188/udp/239.76.246.223:1234
-体育频道,http://www.erbao1981.top:8188/udp/239.76.246.136:1234
-快乐垂钓,http://www.erbao1981.top:8188/udp/239.76.246.5:1234
-茶频道台,http://www.erbao1981.top:8188/udp/239.76.245.239:1234
-IPTV5+体育,http://www.erbao1981.top:8188/udp/239.76.245.222:1234
-快乐购物,http://www.erbao1981.top:8188/udp/239.76.245.32:1234
-快乐购物,http://www.erbao1981.top:8188/udp/239.76.245.193:1234
-快乐购物,http://www.erbao1981.top:8188/udp/239.76.246.112:1234
-快乐购物,http://www.erbao1981.top:8188/udp/239.76.246.123:1234
-快乐购物,http://www.erbao1981.top:8188/udp/239.76.246.124:1234
-快乐购物,http://www.erbao1981.top:8188/udp/239.76.246.220:1234
-快乐购物,http://www.erbao1981.top:8188/udp/239.76.246.221:1234
-长沙购物,http://www.erbao1981.top:8188/udp/239.76.246.245:1234
-信号检修,http://www.erbao1981.top:8188/udp/239.76.245.212:1234
-信号检修,http://www.erbao1981.top:8188/udp/239.76.245.227:1234
-信号检修,http://www.erbao1981.top:8188/udp/239.76.245.228:1234
-信号检修,http://www.erbao1981.top:8188/udp/239.76.245.229:1234
-信号检修,http://www.erbao1981.top:8188/udp/239.76.246.214:1234
-信号检修,http://www.erbao1981.top:8188/udp/239.76.246.224:1234
-信号检修,http://www.erbao1981.top:8188/udp/239.76.247.63:1234
-信号检修,http://www.erbao1981.top:8188/udp/239.76.247.82:1234
-信号检修,http://www.erbao1981.top:8188/udp/239.76.247.83:1234
-信号检修,http://www.erbao1981.top:8188/udp/239.76.247.84:1234
-信号检修,http://www.erbao1981.top:8188/udp/239.76.247.85:1234
-信号检修,http://www.erbao1981.top:8188/udp/239.76.247.86:1234
-信号检修,http://www.erbao1981.top:8188/udp/239.76.247.87:1234
-信号检修,http://www.erbao1981.top:8188/udp/239.76.247.88:1234
-信号检修,http://www.erbao1981.top:8188/udp/239.76.247.89:1234
-信号检修,http://www.erbao1981.top:8188/udp/239.76.247.90:1234
-信号检修,http://www.erbao1981.top:8188/udp/239.76.247.91:1234
-信号检修,http://www.erbao1981.top:8188/udp/239.76.247.92:1234
-信号检修,http://www.erbao1981.top:8188/udp/239.76.247.93:1234
-信号检修,http://www.erbao1981.top:8188/udp/239.76.247.109:1234
 
 
 明星轮播,#genre#
@@ -1029,59 +1416,7 @@ IPTV5+体育,http://www.erbao1981.top:8188/udp/239.76.245.222:1234
 
 
 会员专享_jjj,#genre#
-一日女友的漂亮姐姐 上,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/ph/gr/7v/78/af7b145ecae246b2ac79cecb6f47f6ad.m3u8
-一日女友的漂亮姐姐 中,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/j3/i6/yf/uj/4c59de88250d4dce94d5e5260a48468a.m3u8
-一日女友的漂亮姐姐 下,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/k6/r5/4l/88/60aac9f4edee40078853a86817ead1ff.m3u8
-一日女友的漂亮姐姐 番外  ASMR姐姐的梦境,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/74/oh/ov/ky/be6214b2998f4f33a65d8e879fc77c8e.m3u8
-一日女友的漂亮姐姐 番外篇二 热恋海岸线,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/yu/mt/0k/df/68768a0f7843400c91a65843e069f9fa.m3u8
-森林00-她的妄想,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/8c/sf/lc/5c/34774a9c12b649619c8f4049759c35bf.m3u8
-森林01-相遇,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/qy/yi/94/89/6dc3c8cb9112436682a5af22588f52a0.m3u8
-森林02-欺骗,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/jm/jr/pg/bh/03dd6e239b5c40ceb3b156344a64b372.m3u8
-森林03-碎裂,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/si/p3/76/69/ff14c7c54f1143ddaacac8810fdb8e90.m3u8
-森林04-吴可玖瑶(终),https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/qy/fi/ih/p7/dd522f6b3bd64097ba0e4350b9e65e1c.m3u8
-夏日回忆1,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/b3/tk/kw/y1/4cbb66dfcd884546994ebf0fe557635d.m3u8
-夏日回忆2,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/8v/45/pi/sf/049e460a47e94faabd6e1b7bda0bb6ba.m3u8
-夏日回忆3,https://v4.cvhlscdn.com/20220102/MWEjUEmA/hls/index.m3u8
-海岛生活1,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/f3/op/3a/ja/1bfcd36a631e400f9e673a66fbfb7385.m3u8
-海岛生活2,https://v.cvhlscdn.com/20220807/thM7wsId/hls/index.m3u8
-海岛生活3,https://v.cvhlscdn.com/20220823/sFbrS6lG/hls/index.m3u8
-甜美游戏陪玩1,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/uu/7f/bg/b5/28ed051cdec84ccc98cb9a8a72b2a1aa.m3u8
-甜美游戏陪玩2,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/ex/yn/el/3k/09f83fc673314e1c8fda7139737b4f1a.m3u8
-甜美游戏陪玩3,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/us/6e/s5/8s/72622236ce244252b9726a3530820f28.m3u8
-甜美游戏陪玩4,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/yf/kq/h5/62/0edc074baab140e1976e12e1099d70d2.m3u8
-晨钟/暮鼓1,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/qu/rw/07/7u/3f708cc50f054574b72074d960e31609.m3u8
-晨钟/暮鼓2,https://v.cvhlscdn.com/20220713/pU4sKd7M/hls/index.m3u8
-青蛇,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/2v/hl/ll/f0/ec17339c89b348b3a3d66edfeb412b24.m3u8
-情人节特辑,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/gj/v2/mf/a8/77534e95584448e4a62d3205b260e398.m3u8
-动漫《缘之空》穹妹,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/11/pw/5m/9o/7767714a57434242a353b23d4a3ef841.m3u8
-纯性爱练习手册,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/cg/ph/pg/jv/e48dfc4be58e4e6dab20065a71925079.m3u8
-按摩师,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/8t/0r/9y/ho/5819556d96384d6f8b0db87e873e440a.m3u8
-兔女郎,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/u2/ni/d4/7e/8b76511993614e2c84bcf6a7e2ead496.m3u8
-独自练习1,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/i6/ic/gf/sz/5aae7ba090374eb89fa4cf650d8a8c27.m3u8
-独自练习2,https://v.cvhlscdn.com/20220623/M51SpQDH/hls/index.m3u8
-短篇集「甜酷酷」,https://v.cvhlscdn.com/20221221/esuqsIX3/hls/index.m3u8
-短篇集「流」,https://v.cvhlscdn.com/20211103/fF6r1loI/hls/index.m3u8
-短篇集「2022」,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/jv/t1/9o/ji/6c4a0c8b190944bc8dee75fc8e37cc67.m3u8
-短片-万圣节·特写,https://v.cvhlscdn.com/20221130/2afJFH36/hls/index.m3u8
-短片-白丝诱惑,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/pc/pl/12/8b/e42a460570f24b01a74d96680dda0786.m3u8
-短片-连体衣,https://v.cvhlscdn.com/20220820/UJzhqJ5w/hls/index.m3u8
-短片-美臀福利,https://v.cvhlscdn.com/20221105/J0hLzAts/hls/index.m3u8
-短片-情趣女仆,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/am/jr/eo/yr/895402a7622e48228f71fb2b874345d6.m3u8
-短片-粉嫩黑丝,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/hr/mw/v7/cj/91fbc7eb82a449148ab6a0b58d5b9268.m3u8
-短片-久违中出,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/a4/f2/bf/ak/6efd2825848243879a24c6eaac25c86f.m3u8
-短片-白丝JK,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/pp/hh/cs/je/277847fb29e14f0c9925baf67fea96f0.m3u8
-短片-超紧裙子,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/h3/pc/tc/pu/17ade76bc5b64b7dbe4849cea2d79ae4.m3u8
-短片-黑丝JK,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/ca/jp/jl/up/b792f63ce5eb40b591b2f99d0cf975bd.m3u8
-短片-玩具足交,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/kv/y2/py/nv/edce4ada13884f1591c8af5e1063a192.m3u8
-短片-激情纯爱,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/ep/gu/9m/4l/fbcbd17845504371b6e95ff3b2086a45.m3u8
-短片-粉嫩白丝,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/do/4z/d7/k4/f51157f041264e4cb4490dd344803668.m3u8
-短片-懒惰,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/ff/4b/yn/rh/b181c716e35f48d1aee0063c5f714be1.m3u8
-短片-快乐时光,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/ye/rp/r8/bb/7c2fa3a7fca04875a56f3eb710a41224.m3u8
-竖屏-写真短片「晨」,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/eo/hw/ag/q1/1105642eb79f45f580c473c9fcb64725.m3u8
-竖屏-碎花内衣,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/69/jb/bi/fw/20126e7e0a12462b918d967cf87b8bda.m3u8
-竖屏-公共场合,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/lu/2b/qx/84/13f8f69e45ff4c85ac114a3df7b1ca9e.m3u8
-竖屏-幕后花絮·1,https://v.cvhlscdn.com/20210918/pg4sWQLe/index.m3u8
-竖屏-幕后花絮·2,https://v.cvhlscdn.com/20221105/0NXbWItw/hls/index.m3u8
+
 ssni-895新名,https://t5s.cdn2020.com/video/m3u8/2020/10/24/47f23b08/index.m3u8
 ssni-872新名,https://t4s.cdn2020.com/video/m3u8/2020/10/02/1b6076c4/index.m3u8
 ssni-970新名,https://t6s.cdn2020.com/video/m3u8/2021/03/07/ee3ae27c/index.m3u8
