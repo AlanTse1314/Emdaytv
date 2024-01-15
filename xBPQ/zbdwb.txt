@@ -99,7 +99,6 @@ CCTV12-社会与法,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw9
 CCTV12-社会与法,http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/wh7f454c46tw1537965986_-156154489/ott.mobaibox.com/PLTV/3/224/3221225556/index.m3u8?icpid=3&RTS=1674385948&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
 CCTV12-社会与法,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001239/index.m3u8
 
-CCTV13-新闻,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw2444616252_100116641/ott.mobaibox.com/PLTV/3/224/3221228324/index.m3u8?icpid=3&RTS=1674369675&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 CCTV13-新闻,http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/wh7f454c46tw2053011790_915661497/ott.mobaibox.com/PLTV/3/224/3221228224/index.m3u8?icpid=3&RTS=1674386463&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 CCTV13-新闻,http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw1562744118_1870555977/ott.mobaibox.com/PLTV/3/224/3221228117/index.m3u8?icpid=3&RTS=1674385973&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
 CCTV13-新闻,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw98873079_-1249323947/ott.mobaibox.com/PLTV/3/224/3221227387/index.m3u8?icpid=3&RTS=1674380214&from=40&ocs=2_2409:8087:2004:20:2800:0:df6e:ec13_80&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
@@ -125,11 +124,10 @@ CCTV17-农业农村,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/wh7f454c46tw1
 CCTV17-农业农村,http://[2409:8087:2001:20:2800:0:df6e:eb0b]:80/wh7f454c46tw1746687450_313977963/ott.mobaibox.com/PLTV/3/224/3221227726/index.m3u8?icpid=3&RTS=1674386157&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 CCTV17-农业农村,http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/wh7f454c46tw2053469942_-1661734644/ott.mobaibox.com/PLTV/3/224/3221227592/index.m3u8?icpid=3&RTS=1674386463&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 CCTV17-农业农村,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3u8
+CCTV4k-超高清,http://[2408:8710:1020:17:1::7]/live2.rxip.sc96655.com/live/ys4Kcq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 
 CCTV4K-超高清,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
 CCTV8K-超高清,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-CCTV-4欧洲,http://www.erbao1981.top:8188/udp/239.76.246.95:1234
-CCTV-4美洲,http://www.erbao1981.top:8188/udp/239.76.246.96:1234
 CCTV-兵器科技,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
 CCTV-怀旧剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
 CCTV-世界地理,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
@@ -163,8 +161,6 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 
 
 卫视频道,#genre#
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 
 湖南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/wh7f454c46tw1229968665_-2033076102/ott.mobaibox.com/PLTV/3/224/3221227482/index.m3u8?icpid=3&RTS=1674385640&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 湖南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/wh7f454c46tw211841812_-1243690554/ott.mobaibox.com/PLTV/3/224/3221228413/index.m3u8?icpid=3&RTS=1674380327&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
