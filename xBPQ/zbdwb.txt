@@ -544,6 +544,7 @@ CCTV-电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/
 大湾区卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 金鹰纪实,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 上海纪实,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001330/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+北京纪实,http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/wh7f454c46tw2056461541_1405788434/ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8?icpid=3&RTS=1674386466&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 山东教育,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001317/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 
@@ -747,7 +748,6 @@ CCTV-电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 上海纪实,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw561566041_-1017128366/ott.mobaibox.com/PLTV/3/224/3221227674/index.m3u8?icpid=3&RTS=1674380677&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 上海纪实,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw1558074042_116967467/ott.mobaibox.com/PLTV/3/224/3221227635/index.m3u8?icpid=3&RTS=1674385968&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
-北京纪实,http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/wh7f454c46tw2056461541_1405788434/ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8?icpid=3&RTS=1674386466&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 北京纪实,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 中国教育-1,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001063/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -920,17 +920,13 @@ CCTV-电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/
 郴州综合,http://www.yao87.com:4022/udp/239.76.253.75:9000
 郴州综合,http://www.yao87.com:4022/udp/239.76.246.75:1234
 郴州永兴,https://liveplay-srs.voc.com.cn/hls/tv/40_1d0ed0.m3u8
-郴州资兴,http://liveplay.rednet.cn/live/zixin_tv_00676b.m3u8
 郴州桂阳,https://liveplay-srs.voc.com.cn/hls/tv/7_7c833e.m3u8
 郴州嘉禾,https://liveplay-srs.voc.com.cn/hls/tv/184_e3af1a.m3u8
 郴州临武,https://liveplay-srs.voc.com.cn/hls/tv/148_feda2f.m3u8
 郴州桂东,https://liveplay-srs.voc.com.cn/hls/tv/174_6ab9f8.m3u8
-郴州宜章1台,http://hnyz.chinashadt.com:2036/live/stream:tv1.stream/playlist.m3u8
-郴州宜章2台http://hnyz.chinashadt.com:2036/live/stream:tv2.stream/playlist.m3u8
 郴州汝城,https://liveplay-srs.voc.com.cn/hls/tv/149_40cf24.m3u8
 湖南耒阳,https://liveplay-srs.voc.com.cn/hls/tv/27_e9e1e5.m3u8
 湘潭综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
-衡阳综合,http://xwzhpdbl.hydst.com/AppName/StreamName.m3u8
 衡阳电视,https://liveplay-srs.voc.com.cn/hls/tv/183_554704.m3u8
 新邵综合,https://liveplay-srs.voc.com.cn/hls/tv/171_daca67.m3u8
 城步电视,https://liveplay-srs.voc.com.cn/hls/tv/169_b4d7a4.m3u8
