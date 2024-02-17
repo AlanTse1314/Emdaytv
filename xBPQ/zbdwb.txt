@@ -438,12 +438,12 @@ CCTV-电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/
 黑龙江卫视,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/wh7f454c46tw516512633_-1915271837/ott.mobaibox.com/PLTV/3/224/3221227638/index.m3u8?icpid=3&RTS=1674380631&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 黑龙江卫视,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/wh7f454c46tw516667270_434053295/ott.mobaibox.com/PLTV/3/224/3221228295/index.m3u8?icpid=3&RTS=1674380632&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 
-东南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/wh7f454c46tw91318118_1728721263/ott.mobaibox.com/PLTV/3/224/3221228428/index.m3u8?icpid=3&RTS=1674371616&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
 东南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw1460673280_696172443/ott.mobaibox.com/PLTV/3/224/3221227553/index.m3u8?icpid=3&RTS=1674381576&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
 东南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0b]:80/wh7f454c46tw1481870012_-1505625723/ott.mobaibox.com/PLTV/3/224/3221227670/index.m3u8?icpid=3&RTS=1674381597&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
+东南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/wh7f454c46tw91318118_1728721263/ott.mobaibox.com/PLTV/3/224/3221228428/index.m3u8?icpid=3&RTS=1674371616&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
 
-云南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw1300046831_-189750076/ott.mobaibox.com/PLTV/3/224/3221225591/index.m3u8?icpid=3&RTS=1674377120&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 云南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw935748466_239885853/ott.mobaibox.com/PLTV/3/224/3221227571/index.m3u8?icpid=3&RTS=1674381051&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
+云南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw1300046831_-189750076/ott.mobaibox.com/PLTV/3/224/3221225591/index.m3u8?icpid=3&RTS=1674377120&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 
 吉林卫视,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw844466330_-452871666/ott.mobaibox.com/PLTV/3/224/3221228130/index.m3u8?icpid=3&RTS=1674380959&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 吉林卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw342769965_-1981608007/ott.mobaibox.com/PLTV/3/224/3221228028/index.m3u8?icpid=3&RTS=1674380458&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
@@ -520,6 +520,7 @@ CCTV-电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/
 天津卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001037/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 江西卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001045/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 吉林卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001049/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
 山西卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001038/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 贵州卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001048/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 青海卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001033/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -532,7 +533,9 @@ CCTV-电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/
 内蒙古卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001035/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 兵团卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001304/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 厦门卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001306/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 延边卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001307/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 安多卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001311/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 农林卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001312/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 康巴卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001313/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -671,7 +674,6 @@ CCTV-电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/
 黑龙江卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/wh7f454c46tw1754072820_1199010569/ott.mobaibox.com/PLTV/3/224/3221227662/index.m3u8?icpid=3&RTS=1674386164&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
 黑龙江卫视,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/wh7f454c46tw516023873_-290665544/ott.mobaibox.com/PLTV/3/224/3221227753/index.m3u8?icpid=3&RTS=1674380631&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 
-山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
 
 安徽卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226205/1.m3u8
 江苏卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226157/1.m3u8
@@ -721,21 +723,19 @@ CCTV-电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/
 
 安多卫视,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226405/1.m3u8
 康巴卫视,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw3423902933_-437655574/ott.mobaibox.com/PLTV/3/224/3221227645/index.m3u8
-延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 延边卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001470/index.m3u8
+厦门卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221225689/1.m3u8
 厦门卫视,https://xiamenalic.v.myalicdn.com/xiamen/xiamen_1/index.m3u8
 厦门卫视,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
-厦门卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221225689/1.m3u8
 青海卫视,http://[2409:8087:2001:20:2800:0:df6e:eb1b]/wh7f454c46tw1221605145_-1738716276/ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8?icpid=3&RTS=1668600311&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
 新疆卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8?icpid=3&RTS=1668604377&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
-安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 安多卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 厦门卫视,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
 康巴卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
-三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
+三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 三沙卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226701/1.m3u8
 黄河卫视,http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
 山东教育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226238/index.m3u8
@@ -757,17 +757,13 @@ CCTV-电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/
 中国教育-3,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 中国教育-4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
-中国教育-1,http://txycetvbl.centv.cn/cetv1/ypd.m3u8
-中国教育-2,http://txycetvbl.centv.cn/cetv2/2020tsytk.m3u8
-中国教育-3,http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
-中国教育-4,http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
 
 中国教育-2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001064/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 中国教育-3,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 中国教育-3,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-华文1台,http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
-华文2台,http://vvlive.eztv.vip:80/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
-华文6台,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
+华文一台,http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
+华文二台,http://vvlive.eztv.vip:80/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
+华文六台,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
 金砖中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
@@ -1941,68 +1937,68 @@ VERIFIED AMATEURS: SWEET BUNNY,http://xciptv.aplicativos.top:80/p2puni777/8zksAA
 VERIFIED AMATEURS: TESSA WINTERS,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260588
 VERIFIED AMATEURS: TINNA ANGEL,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260589
 VERIFIED AMATEURS: YINYLEON,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260590
-PORNHUB✰CHANNEL: SUGAR BABES TV,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260591
-PORNHUB✰CHANNEL: SPIZOO,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260592
-PORNHUB✰CHANNEL: SPANKMONSTER,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260593
-PORNHUB✰CHANNEL: MY PERVY FAMILY,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260594
-PORNHUB✰CHANNEL: LETSDOIT,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260595
-PORNHUB✰CHANNEL: DOGFART NETWORK,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260596
-PORNHUB✰CHANNEL: BRAZZERS,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260597
-PORNHUB✰CHANNEL: BRATTY SIS,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260598
-PORNHUB✰CHANNEL: 1111 CUSTOMERS,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260599
-PORNHUB✰CHANNEL: JAYS POV,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260600
-PORNHUB✰CHANNEL: NF BUSTY,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260601
-PORNHUB✰CHANNEL: STEP SIBILINGS CAUGHT,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260602
-PORNHUB✰CHANNEL: MOFOS,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260603
-PORNHUB✰GERMAN: SEXTAPE GERMANY,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260605
-PORNHUB✰GERMAN: BUMSBUS,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260606
-PORNHUB✰GERMAN: EROTIK VON BENAN,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260607
-PORNHUB✰GERMAN: USER DATE,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260608
-PORNHUB✰GERMAN: WOLF WAGNER LOVE,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260609
-PORNHUB✰GERMAN: ALP GIRLS,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260610
-PORNHUB✰GERMAN: DEUTSCHLAND REPORT,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260611
-PORNHUB✰GERMAN: REIFE SWINGER,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260612
-PORNHUB✰CATAGORIES: SWINGER,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260613
-PORNHUB✰CATAGORIES: TEENIE,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260614
-PORNHUB✰CATAGORIES: STUDENT,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260615
-PORNHUB✰CATAGORIES: OUTDOOR,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260616
-PORNHUB✰CATAGORIES: ROMANCE,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260617
-PORNHUB✰CATAGORIES: RUSSIA,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260618
-PORNHUB✰CATAGORIES: SCHOOL,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260619
-PORNHUB✰CATAGORIES: MILF,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260620
-PORNHUB✰CATAGORIES: MASSAGE,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260621
-PORNHUB✰CATAGORIES: LESBIAN,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260622
-PORNHUB✰CATAGORIES: ITALY,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260623
-PORNHUB✰CATAGORIES: HARDCORE,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260624
-PORNHUB✰CATAGORIES: CAARTON PORN,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260625
-PORNHUB✰CATAGORIES: BLOWJOB,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260626
-PORNHUB✰CATAGORIES: BLOND,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260627
-PORNHUB✰CATAGORIES: BLACK,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260628
-PORNHUB✰CATAGORIES: BIG COOK,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260629
-PORNHUB✰CATAGORIES: BABYSITER,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260630
-PORNHUB✰CATAGORIES: ASIAN,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260631
-PORNHUB✰CATAGORIES: ANAL,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260632
-PORNHUB✰CATAGORIES: MY WIFE,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260633
-PORNHUB✰CATAGORIES: HD PORN,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260634
-PORNHUB✰CATAGORIES: NURSE,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260635
-PORNHUB✰CATAGORIES: POLICE OFFICER,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260636
-PORNHUB✰CATAGORIES: PRISONERS,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260637
-PORNHUB✰TRANS: SANTINI,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260638
-PORNHUB✰TRANS: FOXXY,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260639
-PORNHUB✰TRANS: NATALIE MARS,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260640
-PORNHUB✰TRANS: KHLOE KAY,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260641
-PORNHUB✰TRANS: AUBREY KATE,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260642
-PORNHUB✰GAY: ARMOND RIZZO,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260643
-PORNHUB✰GAY: ATLAS GRAN,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260644
-PORNHUB✰GAY: CALVIN BANKS,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260645
-PORNHUB✰GAY: DANTE JOLLE,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260646
-PORNHUB✰GAY: DE ANGELO,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260647
-PORNHUB✰GAY: JACK HUNTER,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260648
-PORNHUB✰GAY:  ROCCO STELLE,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260649
-PORNHUB✰GAY: RICKY LARKIN,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260650
-PORNHUB✰GAY: MAX KONNOR,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260651
-PORNHUB✰GAY: KYLER MOSS,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260652
-PORNHUB✰GAY: ROCCO STELLE,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260653
+PORNHUB?CHANNEL: SUGAR BABES TV,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260591
+PORNHUB?CHANNEL: SPIZOO,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260592
+PORNHUB?CHANNEL: SPANKMONSTER,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260593
+PORNHUB?CHANNEL: MY PERVY FAMILY,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260594
+PORNHUB?CHANNEL: LETSDOIT,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260595
+PORNHUB?CHANNEL: DOGFART NETWORK,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260596
+PORNHUB?CHANNEL: BRAZZERS,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260597
+PORNHUB?CHANNEL: BRATTY SIS,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260598
+PORNHUB?CHANNEL: 1111 CUSTOMERS,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260599
+PORNHUB?CHANNEL: JAYS POV,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260600
+PORNHUB?CHANNEL: NF BUSTY,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260601
+PORNHUB?CHANNEL: STEP SIBILINGS CAUGHT,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260602
+PORNHUB?CHANNEL: MOFOS,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260603
+PORNHUB?GERMAN: SEXTAPE GERMANY,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260605
+PORNHUB?GERMAN: BUMSBUS,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260606
+PORNHUB?GERMAN: EROTIK VON BENAN,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260607
+PORNHUB?GERMAN: USER DATE,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260608
+PORNHUB?GERMAN: WOLF WAGNER LOVE,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260609
+PORNHUB?GERMAN: ALP GIRLS,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260610
+PORNHUB?GERMAN: DEUTSCHLAND REPORT,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260611
+PORNHUB?GERMAN: REIFE SWINGER,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260612
+PORNHUB?CATAGORIES: SWINGER,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260613
+PORNHUB?CATAGORIES: TEENIE,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260614
+PORNHUB?CATAGORIES: STUDENT,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260615
+PORNHUB?CATAGORIES: OUTDOOR,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260616
+PORNHUB?CATAGORIES: ROMANCE,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260617
+PORNHUB?CATAGORIES: RUSSIA,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260618
+PORNHUB?CATAGORIES: SCHOOL,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260619
+PORNHUB?CATAGORIES: MILF,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260620
+PORNHUB?CATAGORIES: MASSAGE,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260621
+PORNHUB?CATAGORIES: LESBIAN,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260622
+PORNHUB?CATAGORIES: ITALY,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260623
+PORNHUB?CATAGORIES: HARDCORE,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260624
+PORNHUB?CATAGORIES: CAARTON PORN,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260625
+PORNHUB?CATAGORIES: BLOWJOB,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260626
+PORNHUB?CATAGORIES: BLOND,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260627
+PORNHUB?CATAGORIES: BLACK,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260628
+PORNHUB?CATAGORIES: BIG COOK,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260629
+PORNHUB?CATAGORIES: BABYSITER,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260630
+PORNHUB?CATAGORIES: ASIAN,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260631
+PORNHUB?CATAGORIES: ANAL,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260632
+PORNHUB?CATAGORIES: MY WIFE,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260633
+PORNHUB?CATAGORIES: HD PORN,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260634
+PORNHUB?CATAGORIES: NURSE,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260635
+PORNHUB?CATAGORIES: POLICE OFFICER,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260636
+PORNHUB?CATAGORIES: PRISONERS,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260637
+PORNHUB?TRANS: SANTINI,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260638
+PORNHUB?TRANS: FOXXY,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260639
+PORNHUB?TRANS: NATALIE MARS,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260640
+PORNHUB?TRANS: KHLOE KAY,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260641
+PORNHUB?TRANS: AUBREY KATE,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260642
+PORNHUB?GAY: ARMOND RIZZO,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260643
+PORNHUB?GAY: ATLAS GRAN,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260644
+PORNHUB?GAY: CALVIN BANKS,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260645
+PORNHUB?GAY: DANTE JOLLE,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260646
+PORNHUB?GAY: DE ANGELO,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260647
+PORNHUB?GAY: JACK HUNTER,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260648
+PORNHUB?GAY:  ROCCO STELLE,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260649
+PORNHUB?GAY: RICKY LARKIN,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260650
+PORNHUB?GAY: MAX KONNOR,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260651
+PORNHUB?GAY: KYLER MOSS,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260652
+PORNHUB?GAY: ROCCO STELLE,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260653
 PORNBOX: THROATED,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260654
 PORNBOX TRANS: TRANS EROTICA,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260655
 PORNBOX TRANS: TRANS ANGELS,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260656
@@ -2113,18 +2109,18 @@ XXX | 4K | Holed 08,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2715
 XXX | 4K | Holed 09,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271590
 XXX | 4K | Holed 10,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271591
 For Man HD,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/289730
-PORNHUB ✰ GAY: COLBY KNOX,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/289731
-PORNHUB✰GAY: CHANEK SANTINI,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/289732
-PORNHUB✰GAY: TREASURE ISLAND,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/289733
-PORNHUB✰GAY:  FLAVA WORKS,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/289734
-PORNHUB✰GAY: TS FOXXY,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/289735
-PORNHUB ✰ GAY: ATLAS GRAN,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/289736
-PORNHUB ✰ GAY: SHIRI ALLWOOD,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/289737
-PORNHUB✰GAY: DEANGELO JACKSON,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/289738
-PORNHUB ✰ GAY: JACK HUNTER,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/289739
-PORNHUB ✰ GAY:  TRANSGENDER,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/289740
-ORNHUB ✰ GAY: RICKY LARKIN,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/289741
-PORNHUB ✰ GAY: KYLER MOSS,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/289742
+PORNHUB ? GAY: COLBY KNOX,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/289731
+PORNHUB?GAY: CHANEK SANTINI,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/289732
+PORNHUB?GAY: TREASURE ISLAND,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/289733
+PORNHUB?GAY:  FLAVA WORKS,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/289734
+PORNHUB?GAY: TS FOXXY,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/289735
+PORNHUB ? GAY: ATLAS GRAN,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/289736
+PORNHUB ? GAY: SHIRI ALLWOOD,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/289737
+PORNHUB?GAY: DEANGELO JACKSON,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/289738
+PORNHUB ? GAY: JACK HUNTER,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/289739
+PORNHUB ? GAY:  TRANSGENDER,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/289740
+ORNHUB ? GAY: RICKY LARKIN,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/289741
+PORNHUB ? GAY: KYLER MOSS,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/289742
 
 Japan HDVhttp://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6225/index.m3u8
 Japan HDV,http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/6225/index.m3u8?
@@ -3315,4 +3311,3 @@ YOUNG Girls,http://live.mycamtv.com/young.m3u8
 Кино 18 + HD,http://3b9673b8.cbilant.com/iptv/72ADL97PMPSR6F/18075/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/18075/index.m3u8
 Кино 18+ International,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/18076/index.m3u8
 Русская Ночь orig,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/9344/index.m3u8#http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B8:25&stream=773971&extension=ts&play_token=VFnUEDgvPl
-
