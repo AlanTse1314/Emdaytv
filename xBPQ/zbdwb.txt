@@ -1230,37 +1230,37 @@ FashionBox HD,http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/228
 明星轮播,#genre#
 
 
-王者荣耀KPL,http://cfss.cc/cdn/hy/660002.flv
-成龙,http://cfss.cc/cdn/hy/11342386.flv
-洪金宝,http://cfss.cc/cdn/hy/11279251.flv
-李连杰,http://cfss.cc/cdn/hy/11342390.flv
-周星驰,http://cfss.cc/cdn/hy/11342412.flv
-林正英,http://cfss.cc/cdn/hy/11342421.flv
-周润发,http://cfss.cc/cdn/hy/11342387.flv
-沈腾,http://cfss.cc/cdn/hy/11601968.flv
-徐克,http://cfss.cc/cdn/hy/11352909.flv
-邱淑贞,http://cfss.cc/cdn/hy/11336571.flv
-刘德华,http://cfss.cc/cdn/hy/11342424.flv
-甄子丹,http://cfss.cc/cdn/hy/11352935.flv
-王晶,http://cfss.cc/cdn/hy/11602058.flv
-梁家辉,http://cfss.cc/cdn/hy/11342429.flv
-陈小春,http://cfss.cc/cdn/hy/23865080.flv
-徐峥,http://cfss.cc/cdn/hy/11602043.flv
-黄渤,http://cfss.cc/cdn/hy/11352876.flv
-冯小刚,http://cfss.cc/cdn/hy/11352906.flv
-曾江,http://cfss.cc/cdn/hy/11601981.flv
-古天乐,http://cfss.cc/cdn/hy/23864973.flv#https://live.metshop.top/yy/1382749900
-张卫健,http://cfss.cc/cdn/hy/11342423.flv
-许冠杰,http://cfss.cc/cdn/hy/11602033.flv
-许冠英,http://cfss.cc/cdn/hy/11601972.flv
-陈思诚,http://cfss.cc/cdn/hy/880261.flv
-张雨绮,http://cfss.cc/cdn/hy/11352883.flv
-邱淑贞,http://cfss.cc/cdn/hy/11336571.flv
-天下霸唱,http://cfss.cc/cdn/hy/11602075.flv
+王者荣耀KPL,http://mmitv.top/pltv/huya.php?id=660002
+成龙,http://mmitv.top/pltv/huya.php?id=11342386
+洪金宝,http://mmitv.top/pltv/huya.php?id=11279251
+李连杰,http://mmitv.top/pltv/huya.php?id=11342390
+周星驰,http://mmitv.top/pltv/huya.php?id=11342412
+林正英,http://mmitv.top/pltv/huya.php?id=11342421
+周润发,http://mmitv.top/pltv/huya.php?id=11342387
+沈腾,http://mmitv.top/pltv/huya.php?id=11601968
+徐克,http://mmitv.top/pltv/huya.php?id=11352909
+邱淑贞,http://mmitv.top/pltv/huya.php?id=11336571
+刘德华,http://mmitv.top/pltv/huya.php?id=11342424
+甄子丹,http://mmitv.top/pltv/huya.php?id=11352935
+王晶,http://mmitv.top/pltv/huya.php?id=11602058
+梁家辉,http://mmitv.top/pltv/huya.php?id=11342429
+陈小春,http://mmitv.top/pltv/huya.php?id=23865080
+徐峥,http://mmitv.top/pltv/huya.php?id=11602043
+黄渤,http://mmitv.top/pltv/huya.php?id=11352876
+冯小刚,http://mmitv.top/pltv/huya.php?id=11352906
+曾江,http://mmitv.top/pltv/huya.php?id=11601981
+古天乐,http://mmitv.top/pltv/huya.php?id=23864973#https://live.metshop.top/yy/1382749900
+张卫健,http://mmitv.top/pltv/huya.php?id=11342423
+许冠杰,http://mmitv.top/pltv/huya.php?id=11602033
+许冠英,http://mmitv.top/pltv/huya.php?id=11601972
+陈思诚,http://mmitv.top/pltv/huya.php?id=880261
+张雨绮,http://mmitv.top/pltv/huya.php?id=11352883
+邱淑贞,http://mmitv.top/pltv/huya.php?id=11336571
+天下霸唱,http://mmitv.top/pltv/huya.php?id=11602075
 赵本山,http://epg.112114.xyz/douyu/9817716
-杰森·斯坦森,http://cfss.cc/cdn/hy/21059588.flv
-巨石强森,http://cfss.cc/cdn/hy/21059581.flv
-詹姆斯邦德,http://cfss.cc/cdn/hy/21059585.flv
+杰森·斯坦森,http://mmitv.top/pltv/huya.php?id=21059588
+巨石强森,http://mmitv.top/pltv/huya.php?id=21059581
+詹姆斯邦德,http://mmitv.top/pltv/huya.php?id=21059585
 
 
 成龙,https://live.metshop.top/yy/34460526#https://live.metshop.top/yy/1354888751
@@ -1278,7 +1278,6 @@ FashionBox HD,http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/228
 赵本山,https://live.metshop.top/yy/1382683959#https://live.metshop.top/yy/32160832#http://epg.112114.xyz/douyu/9817716
 李若彤,https://live.metshop.top/yy/1382704651
 黄日华,https://live.metshop.top/yy/1382749944
-
 
 
 斗鱼影视,#genre#
@@ -1442,7 +1441,11 @@ FashionBox HD,http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/228
 
 
 会员直播_jjj,#genre#
+松视1台,https://18.svi-studio.com/live/908957700097/132663288386/5.m3u8
+松视2台,http://18.svi-studio.com:8880/live/091271435055/841916267544/6.m3u8
 
+香蕉台,https://18.svi-studio.com/live/565361330108/206277615704/4.m3u8
+潘多拉台,https://18.svi-studio.com/live/673960949860/294164781253/3.m3u8
 Playboy FHD,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260418
 PLAYBOY HD,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260419
 Sexy Hot HD,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260420
