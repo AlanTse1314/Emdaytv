@@ -1628,20 +1628,19 @@ FashionBox HD,http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/228
 
 成龙,https://live.metshop.top/yy/34460526#https://live.metshop.top/yy/1354888751
 洪金宝,https://live.metshop.top/yy/1354924839
+李连杰,http://epg.112114.xyz/douyu/8107217
 李连杰,https://live.metshop.top/yy/1454390555#https://live.metshop.top/yy/74613175
-周星驰,https://live.metshop.top/yy/29945997#https://live.metshop.top/yy/1354889048#https://live.metshop.top/yy/1382833670#https://live.metshop.top/yy/1382736808#https://live.metshop.top/yy/21092633#
-林正英,https://live.metshop.top/yy/1382841203#https://live.metshop.top/yy/1353685311#https://live.metshop.top/yy/1382828957#https://live.metshop.top/yy/1353312849#https://live.metshop.top/yy/1351505899#https://live.metshop.top/yy/34229877
+周星驰,https://live.metshop.top/yy/1382736808#https://live.metshop.top/yy/29945997#https://live.metshop.top/yy/1354889048#https://live.metshop.top/yy/1382833670#https://live.metshop.top/yy/21092633#
+林正英,https://live.metshop.top/yy/1353685311#https://live.metshop.top/yy/1382841203#https://live.metshop.top/yy/1382828957#https://live.metshop.top/yy/1353312849#https://live.metshop.top/yy/1351505899#https://live.metshop.top/yy/34229877
 周润发,https://live.metshop.top/yy/1354930961#https://live.metshop.top/yy/1354889044
 郑伊健,https://live.metshop.top/yy/1354507447
 刘德华,https://live.metshop.top/yy/1382745111
 甄子丹,https://live.metshop.top/yy/1382828771
 胡歌,http://epg.112114.xyz/douyu/5448413
-李连杰,http://epg.112114.xyz/douyu/8107217
 成龙,http://epg.112114.xyz/douyu/3379942
 林正英,http://epg.112114.xyz/douyu/9607934
 周杰伦,http://epg.112114.xyz/douyu/7537296
 沈腾,https://live.metshop.top/yy/1354936201#http://epg.112114.xyz/douyu/10153463
-陈翔六点半,http://epg.112114.xyz/douyu/2132902
 邱淑贞,https://live.metshop.top/yy/1461579859
 刘德华,http://epg.112114.xyz/douyu/2516864
 
@@ -1663,6 +1662,7 @@ FashionBox HD,http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/228
 黄日华,https://live.metshop.top/yy/1382749944
 王者荣耀KPL,http://epg.112114.xyz/douyu/998
 陈翔六点半,http://epg.112114.xyz/douyu/2132902
+
 万合天宜,http://epg.112114.xyz/douyu/9220456
 抖音小姐姐,http://epg.112114.xyz/douyu/11531165#http://epg.112114.xyz/douyu/10150937
 KRMusic,http://epg.112114.xyz/douyu/8921085
